@@ -1,0 +1,10 @@
+id,name,qty,t,w,length,material,note
+A,Posts,4,45.0,45.0,1782.0,Straight kiln-dried hardwood,Square ends; matched lengths.
+B,Shelf side rails,8,45.0,70.0,260.0,Hardwood,Two 8 mm dowels per end.
+C,Upper side rails,2,45.0,92.0,260.0,Hardwood,Two 8 mm dowels per end.
+D,Shelf panels,4,18.0,348.0,809.0,Cabinet plywood,Face grain along length; no notches.
+E,Top panel,1,18.0,370.0,920.0,Cabinet plywood,10 mm overhang on all frame edges.
+F,Front/rear top aprons,2,18.0,92.0,810.0,Cabinet plywood,Two 6 mm dowels per end.
+G,Shelf support cleats,8,30.0,30.0,260.0,Hardwood,Three transverse screws per cleat.
+H,X slats,16,18.0,35.0,447.5881088177611,Hardwood,Parallel 26.66 deg end cuts; 9 mm complementary half laps.
+J,Rear steel straps,2,1.0,20.0,1864.1182431142684,Commercial bracing steel,Cut/drill to actual jig; deburr all edges.

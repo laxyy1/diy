@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490mm" height="120mm" viewBox="0 0 490 120">
+<rect width="490" height="120" fill="white"/>
+<polygon points="10.000000,30.000000 27.573154,65.000000 475.161262,65.000000 457.588109,30.000000" fill="none" stroke="#243d37" stroke-width="0.25"/>
+<polygon points="277.434933,30.000000 233.794054,30.000000 207.726329,65.000000 251.367208,65.000000" fill="none" stroke="#a55230" stroke-width="0.25"/>
+<path d="M10 85H110M10 82V88M110 82V88" stroke="black" stroke-width="0.25"/>
+<g font-family="sans-serif" font-size="4"><text x="10" y="98">100 mm check bar. Print at actual size; verify with a ruler.</text>
+<text x="10" y="110">H / lap 9 mm deep from opposite faces on paired slats. Millimetres. P1 / DIYWOODPLANNER.</text></g></svg>

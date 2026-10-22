@@ -1,0 +1,12 @@
+id,description,quantity,allocation
+K1,"Fluted hardwood dowels, 8 x 50 mm",40,4 per B/C rail; buy 50
+K2,"Fluted hardwood dowels, 6 x 40 mm",8,4 per F apron; buy 12
+K3,"Wood screws, 5 x 60 mm",24,3 per G cleat; 30 mm nominal rail embed
+K4,"Wood screws, 4 x 40 mm",16,4 per D shelf; 22 mm nominal cleat embed
+K5,"Wood screws, 4 x 45 mm",32,2 per H slat; 27 mm nominal rail embed
+K6,"Pan-head wood screws, 5 x 35 mm",4,1 per J end; 33-34 mm nominal post embed
+K7,"Steel washers, 1 mm thick, 5.5 mm bore",2,At both J-2 ends to match crossing offset
+K8,"25 x 25 x 20 mm steel angle, one hole/wing",4,Two per F apron; hole centres about 12 mm
+K9,"Wood screws, 4 x 16 mm",8,2 per K8; do not countersink thin steel
+K10,Commercial furniture-to-wall restraint kit,2,Both rear posts to suitable wall structure; kit-specific fixings
+K11,"Non-slip foot pads, matching thickness",4,Do not include pad thickness in nominal height

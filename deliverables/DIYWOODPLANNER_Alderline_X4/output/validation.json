@@ -1,0 +1,144 @@
+{
+  "status": "GEOMETRY CHECKS PASS",
+  "checks": [
+    {
+      "check": "Delivered STEP solid count",
+      "passed": true,
+      "detail": "47 solids vs schedule 47"
+    },
+    {
+      "check": "Valid positive CAD solids",
+      "passed": true,
+      "detail": "OpenCascade validity and positive volume on every STEP solid"
+    },
+    {
+      "check": "Overall envelope",
+      "passed": true,
+      "detail": "X -18.000..918.000; Y -10.000..360.000; Z 0.000..1800.000 mm"
+    },
+    {
+      "check": "No unintended solid interpenetration",
+      "passed": true,
+      "detail": "8 bounding-box candidates; positive intersections >0.01 mm3: []"
+    },
+    {
+      "check": "Shelf assembly clearance",
+      "passed": true,
+      "detail": "0.5 mm per side; dry-fit and trim only within measured opening"
+    },
+    {
+      "check": "Shelf bearing",
+      "passed": true,
+      "detail": "29.5 mm minimum bearing width on each side cleat; bearing length 260 mm"
+    },
+    {
+      "check": "Shelf levels",
+      "passed": true,
+      "detail": "Undersides: [160.0, 560.0, 960.0, 1360.0]; tops [178.0, 578.0, 978.0, 1378.0] mm"
+    },
+    {
+      "check": "Brace width and end geometry",
+      "passed": true,
+      "detail": "Independent normal-distance calculation 35.000000 mm; end-cut projection 39.163960 mm"
+    },
+    {
+      "check": "Brace stock sufficiency",
+      "passed": true,
+      "detail": "490 mm blank > 465.161 mm theoretical extremity length + 10 mm allowance"
+    },
+    {
+      "check": "Half-lap removal",
+      "passed": true,
+      "detail": "16 slats match theoretical volume 268233.632 mm3; 9+9=18 mm lap thickness"
+    },
+    {
+      "check": "Dowel quantity",
+      "passed": true,
+      "detail": "40 of 8 x 50; 8 of 6 x 40. Two embeds per dowel: 25+25 and 20+20 mm"
+    },
+    {
+      "check": "All dowel mating bores align in STEP",
+      "passed": true,
+      "detail": "48 independently placed nominal dowel cylinders have no wood interference; blocked paths []"
+    },
+    {
+      "check": "Dowel edge ligaments",
+      "passed": true,
+      "detail": "8 mm bores: 18.5 mm side ligament; 6 mm apron bores: 6 mm face ligament. Physical joint tests still required"
+    },
+    {
+      "check": "Blind drilling through-wall allowance",
+      "passed": true,
+      "detail": "26 mm post/rail bore and 21 mm apron bore drilling depth; dowel embed remains 25/20 mm"
+    },
+    {
+      "check": "Nominal screw tip containment",
+      "passed": true,
+      "detail": "{'K3': 30, 'K4': 22, 'K5': 27, 'K6first': 34, 'K6second': 33, 'K9': 14} mm; nominal, not capacities; verify actual hardware"
+    },
+    {
+      "check": "Brace screw rail backing",
+      "passed": true,
+      "detail": "First ascending lower screw (y,z)=(84.624,145); upper=(265.376,505) mm; 15 mm min rail-edge distance"
+    },
+    {
+      "check": "Opposing brace/cleat screw clearance",
+      "passed": true,
+      "detail": "Minimum centreline spacing 25.376 mm; 4 and 5 mm screw axes remain distinct. Cleat Y stations 110/175/240"
+    },
+    {
+      "check": "Strap hole pitch",
+      "passed": true,
+      "detail": "1814.118 mm centre pitch; 25 mm end allowance each"
+    },
+    {
+      "check": "Stock layout A",
+      "passed": true,
+      "detail": "4 boards; 1 blanks per board; conservative length use 1805 / 2400 mm"
+    },
+    {
+      "check": "Stock layout B/C",
+      "passed": true,
+      "detail": "2 boards; 5 blanks per board; conservative length use 1335 / 2400 mm"
+    },
+    {
+      "check": "Stock layout G",
+      "passed": true,
+      "detail": "1 boards; 8 blanks per board; conservative length use 2124 / 2400 mm"
+    },
+    {
+      "check": "Stock layout H",
+      "passed": true,
+      "detail": "4 boards; 4 blanks per board; conservative length use 1992 / 2400 mm"
+    },
+    {
+      "check": "Plywood nesting",
+      "passed": true,
+      "detail": "1 sheet 2440 x 1220 x 18; seven pieces with >=20 mm gaps in diagram layout"
+    },
+    {
+      "check": "Beam calculation units and finite results",
+      "passed": true,
+      "detail": "N, mm, MPa throughout; gross-section simply-supported UDL illustration only"
+    }
+  ],
+  "engineering": {
+    "span_mm": 810.0,
+    "assumed_E_MPa": 6000.0,
+    "breadth_mm": 348.0,
+    "thickness_mm": 18.0,
+    "I_mm4": 169128.0,
+    "assumed_contents_mass_kg": 20,
+    "panel_self_mass_kg": 3.2939244,
+    "total_force_N": 228.51339836400004,
+    "instant_deflection_mm": 1.5582557640325299,
+    "bending_stress_MPa": 1.2312144308405175
+  },
+  "unresolved": [
+    "No physical prototype, structural load, creep, racking or tip testing performed.",
+    "Purchased hardware and wall restraint product not selected or capacity-verified.",
+    "Wood species/grade, moisture, plywood stiffness and exact manufactured thickness unverified.",
+    "No safe working load or commercial-release certification established.",
+    "Pilot holes and purchased brackets/restraints are diagrammatic, not detailed CAD hardware."
+  ]
+}
