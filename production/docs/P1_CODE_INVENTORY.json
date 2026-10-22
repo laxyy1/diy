@@ -1,0 +1,5379 @@
+[
+  {
+    "file": "deliverables/DIYWOODPLANNER_Alderline_X4/source/build_manual.py",
+    "lines": 336,
+    "numeric_literals": [
+      {
+        "line": 20,
+        "value": 42
+      },
+      {
+        "line": 24,
+        "value": 0
+      },
+      {
+        "line": 20,
+        "value": 612
+      },
+      {
+        "line": 20,
+        "value": 792
+      },
+      {
+        "line": 26,
+        "value": 10
+      },
+      {
+        "line": 30,
+        "value": 528
+      },
+      {
+        "line": 30,
+        "value": 10
+      },
+      {
+        "line": 30,
+        "value": 15
+      },
+      {
+        "line": 46,
+        "value": 0.7
+      },
+      {
+        "line": 52,
+        "value": 1
+      },
+      {
+        "line": 66,
+        "value": 250
+      },
+      {
+        "line": 71,
+        "value": 528
+      },
+      {
+        "line": 76,
+        "value": 15
+      },
+      {
+        "line": 76,
+        "value": 8
+      },
+      {
+        "line": 94,
+        "value": 0.22
+      },
+      {
+        "line": 117,
+        "value": 0.24
+      },
+      {
+        "line": 134,
+        "value": 9
+      },
+      {
+        "line": 134,
+        "value": 31
+      },
+      {
+        "line": 225,
+        "value": 598
+      },
+      {
+        "line": 235,
+        "value": 598
+      },
+      {
+        "line": 270,
+        "value": 608
+      },
+      {
+        "line": 280,
+        "value": 247
+      },
+      {
+        "line": 298,
+        "value": 610
+      },
+      {
+        "line": 40,
+        "value": 4
+      },
+      {
+        "line": 52,
+        "value": 0
+      },
+      {
+        "line": 52,
+        "value": 0
+      },
+      {
+        "line": 53,
+        "value": 758
+      },
+      {
+        "line": 53,
+        "value": 10
+      },
+      {
+        "line": 54,
+        "value": 8
+      },
+      {
+        "line": 54,
+        "value": 570
+      },
+      {
+        "line": 54,
+        "value": 758
+      },
+      {
+        "line": 55,
+        "value": 745
+      },
+      {
+        "line": 55,
+        "value": 570
+      },
+      {
+        "line": 55,
+        "value": 745
+      },
+      {
+        "line": 56,
+        "value": 723
+      },
+      {
+        "line": 56,
+        "value": 8
+      },
+      {
+        "line": 57,
+        "value": 690
+      },
+      {
+        "line": 57,
+        "value": 25
+      },
+      {
+        "line": 59,
+        "value": 42
+      },
+      {
+        "line": 59,
+        "value": 570
+      },
+      {
+        "line": 59,
+        "value": 42
+      },
+      {
+        "line": 60,
+        "value": 27
+      },
+      {
+        "line": 60,
+        "value": 7
+      },
+      {
+        "line": 61,
+        "value": 548
+      },
+      {
+        "line": 61,
+        "value": 27
+      },
+      {
+        "line": 61,
+        "value": 8
+      },
+      {
+        "line": 67,
+        "value": 24
+      },
+      {
+        "line": 67,
+        "value": 24
+      },
+      {
+        "line": 67,
+        "value": 11
+      },
+      {
+        "line": 68,
+        "value": 11
+      },
+      {
+        "line": 69,
+        "value": 9.4
+      },
+      {
+        "line": 69,
+        "value": 14
+      },
+      {
+        "line": 72,
+        "value": 3
+      },
+      {
+        "line": 72,
+        "value": 42
+      },
+      {
+        "line": 73,
+        "value": 9
+      },
+      {
+        "line": 74,
+        "value": 9
+      },
+      {
+        "line": 74,
+        "value": 13
+      },
+      {
+        "line": 78,
+        "value": 1e-06
+      },
+      {
+        "line": 92,
+        "value": 0.55
+      },
+      {
+        "line": 101,
+        "value": 0
+      },
+      {
+        "line": 103,
+        "value": 45
+      },
+      {
+        "line": 103,
+        "value": 810
+      },
+      {
+        "line": 104,
+        "value": 18
+      },
+      {
+        "line": 120,
+        "value": 0
+      },
+      {
+        "line": 120,
+        "value": 305
+      },
+      {
+        "line": 135,
+        "value": 24
+      },
+      {
+        "line": 138,
+        "value": 24
+      },
+      {
+        "line": 152,
+        "value": 654
+      },
+      {
+        "line": 152,
+        "value": 13
+      },
+      {
+        "line": 153,
+        "value": 630
+      },
+      {
+        "line": 153,
+        "value": 310
+      },
+      {
+        "line": 153,
+        "value": 11
+      },
+      {
+        "line": 153,
+        "value": 16
+      },
+      {
+        "line": 154,
+        "value": 220
+      },
+      {
+        "line": 154,
+        "value": 118
+      },
+      {
+        "line": 154,
+        "value": 335
+      },
+      {
+        "line": 154,
+        "value": 495
+      },
+      {
+        "line": 155,
+        "value": 42
+      },
+      {
+        "line": 155,
+        "value": 365
+      },
+      {
+        "line": 155,
+        "value": 168
+      },
+      {
+        "line": 155,
+        "value": 210
+      },
+      {
+        "line": 156,
+        "value": 56
+      },
+      {
+        "line": 156,
+        "value": 552
+      },
+      {
+        "line": 156,
+        "value": 9
+      },
+      {
+        "line": 157,
+        "value": 56
+      },
+      {
+        "line": 157,
+        "value": 530
+      },
+      {
+        "line": 157,
+        "value": 140
+      },
+      {
+        "line": 157,
+        "value": 10
+      },
+      {
+        "line": 157,
+        "value": 15
+      },
+      {
+        "line": 158,
+        "value": 42
+      },
+      {
+        "line": 158,
+        "value": 283
+      },
+      {
+        "line": 158,
+        "value": 170
+      },
+      {
+        "line": 158,
+        "value": 9.5
+      },
+      {
+        "line": 158,
+        "value": 14
+      },
+      {
+        "line": 159,
+        "value": 42
+      },
+      {
+        "line": 159,
+        "value": 108
+      },
+      {
+        "line": 162,
+        "value": 110
+      },
+      {
+        "line": 162,
+        "value": 190
+      },
+      {
+        "line": 162,
+        "value": 0.225
+      },
+      {
+        "line": 162,
+        "value": 420
+      },
+      {
+        "line": 162,
+        "value": 190
+      },
+      {
+        "line": 162,
+        "value": 0.225
+      },
+      {
+        "line": 163,
+        "value": 170
+      },
+      {
+        "line": 163,
+        "value": 146
+      },
+      {
+        "line": 163,
+        "value": 9
+      },
+      {
+        "line": 163,
+        "value": 432
+      },
+      {
+        "line": 163,
+        "value": 146
+      },
+      {
+        "line": 163,
+        "value": 9
+      },
+      {
+        "line": 164,
+        "value": 42
+      },
+      {
+        "line": 164,
+        "value": 124
+      },
+      {
+        "line": 164,
+        "value": 528
+      },
+      {
+        "line": 164,
+        "value": 9.5
+      },
+      {
+        "line": 164,
+        "value": 14
+      },
+      {
+        "line": 165,
+        "value": 42
+      },
+      {
+        "line": 165,
+        "value": 82
+      },
+      {
+        "line": 165,
+        "value": 528
+      },
+      {
+        "line": 165,
+        "value": 9
+      },
+      {
+        "line": 165,
+        "value": 13
+      },
+      {
+        "line": 173,
+        "value": 42
+      },
+      {
+        "line": 173,
+        "value": 628
+      },
+      {
+        "line": 173,
+        "value": 528
+      },
+      {
+        "line": 173,
+        "value": 9
+      },
+      {
+        "line": 173,
+        "value": 30
+      },
+      {
+        "line": 174,
+        "value": 42
+      },
+      {
+        "line": 174,
+        "value": 312
+      },
+      {
+        "line": 174,
+        "value": 528
+      },
+      {
+        "line": 174,
+        "value": 9
+      },
+      {
+        "line": 174,
+        "value": 13
+      },
+      {
+        "line": 175,
+        "value": 42
+      },
+      {
+        "line": 175,
+        "value": 242
+      },
+      {
+        "line": 175,
+        "value": 10
+      },
+      {
+        "line": 176,
+        "value": 42
+      },
+      {
+        "line": 176,
+        "value": 221
+      },
+      {
+        "line": 176,
+        "value": 528
+      },
+      {
+        "line": 176,
+        "value": 9.5
+      },
+      {
+        "line": 176,
+        "value": 14
+      },
+      {
+        "line": 177,
+        "value": 42
+      },
+      {
+        "line": 177,
+        "value": 161
+      },
+      {
+        "line": 177,
+        "value": 528
+      },
+      {
+        "line": 177,
+        "value": 9.5
+      },
+      {
+        "line": 177,
+        "value": 14
+      },
+      {
+        "line": 178,
+        "value": 42
+      },
+      {
+        "line": 178,
+        "value": 82
+      },
+      {
+        "line": 183,
+        "value": 42
+      },
+      {
+        "line": 183,
+        "value": 628
+      },
+      {
+        "line": 183,
+        "value": 528
+      },
+      {
+        "line": 183,
+        "value": 8.5
+      },
+      {
+        "line": 183,
+        "value": 25
+      },
+      {
+        "line": 184,
+        "value": 42
+      },
+      {
+        "line": 184,
+        "value": 313
+      },
+      {
+        "line": 184,
+        "value": 528
+      },
+      {
+        "line": 184,
+        "value": 9.2
+      },
+      {
+        "line": 184,
+        "value": 13.5
+      },
+      {
+        "line": 185,
+        "value": 42
+      },
+      {
+        "line": 185,
+        "value": 245
+      },
+      {
+        "line": 185,
+        "value": 10
+      },
+      {
+        "line": 186,
+        "value": 42
+      },
+      {
+        "line": 186,
+        "value": 225
+      },
+      {
+        "line": 186,
+        "value": 528
+      },
+      {
+        "line": 186,
+        "value": 9.3
+      },
+      {
+        "line": 186,
+        "value": 14
+      },
+      {
+        "line": 187,
+        "value": 42
+      },
+      {
+        "line": 187,
+        "value": 143
+      },
+      {
+        "line": 187,
+        "value": 10
+      },
+      {
+        "line": 188,
+        "value": 42
+      },
+      {
+        "line": 188,
+        "value": 123
+      },
+      {
+        "line": 188,
+        "value": 528
+      },
+      {
+        "line": 188,
+        "value": 9.3
+      },
+      {
+        "line": 188,
+        "value": 14
+      },
+      {
+        "line": 193,
+        "value": 0.215
+      },
+      {
+        "line": 202,
+        "value": 365
+      },
+      {
+        "line": 202,
+        "value": 535
+      },
+      {
+        "line": 202,
+        "value": 195
+      },
+      {
+        "line": 202,
+        "value": 9
+      },
+      {
+        "line": 202,
+        "value": 13
+      },
+      {
+        "line": 203,
+        "value": 365
+      },
+      {
+        "line": 203,
+        "value": 365
+      },
+      {
+        "line": 203,
+        "value": 195
+      },
+      {
+        "line": 203,
+        "value": 9
+      },
+      {
+        "line": 203,
+        "value": 13
+      },
+      {
+        "line": 204,
+        "value": 42
+      },
+      {
+        "line": 204,
+        "value": 167
+      },
+      {
+        "line": 204,
+        "value": 10
+      },
+      {
+        "line": 205,
+        "value": 42
+      },
+      {
+        "line": 205,
+        "value": 147
+      },
+      {
+        "line": 205,
+        "value": 528
+      },
+      {
+        "line": 205,
+        "value": 9.4
+      },
+      {
+        "line": 205,
+        "value": 14
+      },
+      {
+        "line": 206,
+        "value": 42
+      },
+      {
+        "line": 206,
+        "value": 76
+      },
+      {
+        "line": 206,
+        "value": 528
+      },
+      {
+        "line": 206,
+        "value": 9
+      },
+      {
+        "line": 206,
+        "value": 13
+      },
+      {
+        "line": 209,
+        "value": 67
+      },
+      {
+        "line": 209,
+        "value": 352
+      },
+      {
+        "line": 209,
+        "value": 0.65
+      },
+      {
+        "line": 212,
+        "value": 22
+      },
+      {
+        "line": 213,
+        "value": 42
+      },
+      {
+        "line": 213,
+        "value": 304
+      },
+      {
+        "line": 213,
+        "value": 10
+      },
+      {
+        "line": 214,
+        "value": 42
+      },
+      {
+        "line": 214,
+        "value": 284
+      },
+      {
+        "line": 214,
+        "value": 528
+      },
+      {
+        "line": 214,
+        "value": 9.4
+      },
+      {
+        "line": 214,
+        "value": 14
+      },
+      {
+        "line": 216,
+        "value": 350
+      },
+      {
+        "line": 216,
+        "value": 485
+      },
+      {
+        "line": 216,
+        "value": 175
+      },
+      {
+        "line": 216,
+        "value": 18
+      },
+      {
+        "line": 216,
+        "value": 420
+      },
+      {
+        "line": 216,
+        "value": 485
+      },
+      {
+        "line": 216,
+        "value": 35
+      },
+      {
+        "line": 216,
+        "value": 9
+      },
+      {
+        "line": 217,
+        "value": 350
+      },
+      {
+        "line": 217,
+        "value": 459
+      },
+      {
+        "line": 217,
+        "value": 175
+      },
+      {
+        "line": 217,
+        "value": 18
+      },
+      {
+        "line": 217,
+        "value": 420
+      },
+      {
+        "line": 217,
+        "value": 468
+      },
+      {
+        "line": 217,
+        "value": 35
+      },
+      {
+        "line": 217,
+        "value": 9
+      },
+      {
+        "line": 218,
+        "value": 350
+      },
+      {
+        "line": 218,
+        "value": 526
+      },
+      {
+        "line": 218,
+        "value": 8
+      },
+      {
+        "line": 218,
+        "value": 350
+      },
+      {
+        "line": 218,
+        "value": 438
+      },
+      {
+        "line": 218,
+        "value": 8
+      },
+      {
+        "line": 219,
+        "value": 350
+      },
+      {
+        "line": 219,
+        "value": 408
+      },
+      {
+        "line": 219,
+        "value": 185
+      },
+      {
+        "line": 219,
+        "value": 8.7
+      },
+      {
+        "line": 219,
+        "value": 13
+      },
+      {
+        "line": 220,
+        "value": 42
+      },
+      {
+        "line": 220,
+        "value": 187
+      },
+      {
+        "line": 220,
+        "value": 528
+      },
+      {
+        "line": 220,
+        "value": 9.4
+      },
+      {
+        "line": 220,
+        "value": 14
+      },
+      {
+        "line": 221,
+        "value": 42
+      },
+      {
+        "line": 221,
+        "value": 82
+      },
+      {
+        "line": 224,
+        "value": 42
+      },
+      {
+        "line": 224,
+        "value": 183
+      },
+      {
+        "line": 224,
+        "value": 225
+      },
+      {
+        "line": 224,
+        "value": 440
+      },
+      {
+        "line": 226,
+        "value": 24
+      },
+      {
+        "line": 227,
+        "value": 24
+      },
+      {
+        "line": 228,
+        "value": 24
+      },
+      {
+        "line": 229,
+        "value": 285
+      },
+      {
+        "line": 229,
+        "value": 4
+      },
+      {
+        "line": 229,
+        "value": 270
+      },
+      {
+        "line": 230,
+        "value": 42
+      },
+      {
+        "line": 230,
+        "value": 133
+      },
+      {
+        "line": 230,
+        "value": 528
+      },
+      {
+        "line": 230,
+        "value": 9.2
+      },
+      {
+        "line": 230,
+        "value": 14
+      },
+      {
+        "line": 231,
+        "value": 42
+      },
+      {
+        "line": 231,
+        "value": 73
+      },
+      {
+        "line": 234,
+        "value": 42
+      },
+      {
+        "line": 234,
+        "value": 185
+      },
+      {
+        "line": 234,
+        "value": 225
+      },
+      {
+        "line": 234,
+        "value": 443
+      },
+      {
+        "line": 236,
+        "value": 22
+      },
+      {
+        "line": 237,
+        "value": 22
+      },
+      {
+        "line": 238,
+        "value": 285
+      },
+      {
+        "line": 238,
+        "value": 7
+      },
+      {
+        "line": 238,
+        "value": 270
+      },
+      {
+        "line": 239,
+        "value": 42
+      },
+      {
+        "line": 239,
+        "value": 143
+      },
+      {
+        "line": 239,
+        "value": 528
+      },
+      {
+        "line": 239,
+        "value": 9.3
+      },
+      {
+        "line": 239,
+        "value": 14
+      },
+      {
+        "line": 240,
+        "value": 42
+      },
+      {
+        "line": 240,
+        "value": 75
+      },
+      {
+        "line": 243,
+        "value": 92
+      },
+      {
+        "line": 243,
+        "value": 315
+      },
+      {
+        "line": 243,
+        "value": 430
+      },
+      {
+        "line": 243,
+        "value": 330
+      },
+      {
+        "line": 244,
+        "value": 240
+      },
+      {
+        "line": 244,
+        "value": 321
+      },
+      {
+        "line": 244,
+        "value": 7
+      },
+      {
+        "line": 245,
+        "value": 67
+      },
+      {
+        "line": 245,
+        "value": 550
+      },
+      {
+        "line": 245,
+        "value": 8
+      },
+      {
+        "line": 245,
+        "value": 177
+      },
+      {
+        "line": 245,
+        "value": 553
+      },
+      {
+        "line": 245,
+        "value": 280
+      },
+      {
+        "line": 245,
+        "value": 572
+      },
+      {
+        "line": 246,
+        "value": 392
+      },
+      {
+        "line": 246,
+        "value": 620
+      },
+      {
+        "line": 246,
+        "value": 8
+      },
+      {
+        "line": 246,
+        "value": 390
+      },
+      {
+        "line": 246,
+        "value": 616
+      },
+      {
+        "line": 246,
+        "value": 355
+      },
+      {
+        "line": 246,
+        "value": 610
+      },
+      {
+        "line": 247,
+        "value": 42
+      },
+      {
+        "line": 247,
+        "value": 276
+      },
+      {
+        "line": 247,
+        "value": 8
+      },
+      {
+        "line": 247,
+        "value": 528
+      },
+      {
+        "line": 248,
+        "value": 42
+      },
+      {
+        "line": 248,
+        "value": 173
+      },
+      {
+        "line": 248,
+        "value": 9
+      },
+      {
+        "line": 248,
+        "value": 528
+      },
+      {
+        "line": 249,
+        "value": 42
+      },
+      {
+        "line": 249,
+        "value": 72
+      },
+      {
+        "line": 249,
+        "value": 528
+      },
+      {
+        "line": 249,
+        "value": 9
+      },
+      {
+        "line": 249,
+        "value": 13
+      },
+      {
+        "line": 252,
+        "value": 42
+      },
+      {
+        "line": 252,
+        "value": 271
+      },
+      {
+        "line": 252,
+        "value": 310
+      },
+      {
+        "line": 252,
+        "value": 375
+      },
+      {
+        "line": 253,
+        "value": 357
+      },
+      {
+        "line": 253,
+        "value": 582
+      },
+      {
+        "line": 253,
+        "value": 10
+      },
+      {
+        "line": 253,
+        "value": 357
+      },
+      {
+        "line": 253,
+        "value": 562
+      },
+      {
+        "line": 253,
+        "value": 200
+      },
+      {
+        "line": 253,
+        "value": 9.3
+      },
+      {
+        "line": 253,
+        "value": 14
+      },
+      {
+        "line": 254,
+        "value": 357
+      },
+      {
+        "line": 254,
+        "value": 470
+      },
+      {
+        "line": 254,
+        "value": 10
+      },
+      {
+        "line": 254,
+        "value": 357
+      },
+      {
+        "line": 254,
+        "value": 450
+      },
+      {
+        "line": 254,
+        "value": 200
+      },
+      {
+        "line": 254,
+        "value": 9.3
+      },
+      {
+        "line": 254,
+        "value": 14
+      },
+      {
+        "line": 255,
+        "value": 42
+      },
+      {
+        "line": 255,
+        "value": 235
+      },
+      {
+        "line": 255,
+        "value": 10
+      },
+      {
+        "line": 255,
+        "value": 528
+      },
+      {
+        "line": 256,
+        "value": 42
+      },
+      {
+        "line": 256,
+        "value": 132
+      },
+      {
+        "line": 256,
+        "value": 11
+      },
+      {
+        "line": 256,
+        "value": 528
+      },
+      {
+        "line": 257,
+        "value": 42
+      },
+      {
+        "line": 257,
+        "value": 65
+      },
+      {
+        "line": 257,
+        "value": 528
+      },
+      {
+        "line": 257,
+        "value": 8.7
+      },
+      {
+        "line": 257,
+        "value": 12
+      },
+      {
+        "line": 260,
+        "value": 65
+      },
+      {
+        "line": 260,
+        "value": 192
+      },
+      {
+        "line": 260,
+        "value": 0.235
+      },
+      {
+        "line": 261,
+        "value": 68
+      },
+      {
+        "line": 261,
+        "value": 635
+      },
+      {
+        "line": 261,
+        "value": 8
+      },
+      {
+        "line": 262,
+        "value": 318
+      },
+      {
+        "line": 262,
+        "value": 610
+      },
+      {
+        "line": 262,
+        "value": 240
+      },
+      {
+        "line": 262,
+        "value": 9.4
+      },
+      {
+        "line": 262,
+        "value": 14
+      },
+      {
+        "line": 263,
+        "value": 318
+      },
+      {
+        "line": 263,
+        "value": 487
+      },
+      {
+        "line": 263,
+        "value": 240
+      },
+      {
+        "line": 263,
+        "value": 9.3
+      },
+      {
+        "line": 263,
+        "value": 14
+      },
+      {
+        "line": 264,
+        "value": 318
+      },
+      {
+        "line": 264,
+        "value": 364
+      },
+      {
+        "line": 264,
+        "value": 240
+      },
+      {
+        "line": 264,
+        "value": 9.3
+      },
+      {
+        "line": 264,
+        "value": 14
+      },
+      {
+        "line": 265,
+        "value": 42
+      },
+      {
+        "line": 265,
+        "value": 145
+      },
+      {
+        "line": 265,
+        "value": 528
+      },
+      {
+        "line": 265,
+        "value": 9.3
+      },
+      {
+        "line": 265,
+        "value": 14
+      },
+      {
+        "line": 266,
+        "value": 42
+      },
+      {
+        "line": 266,
+        "value": 71
+      },
+      {
+        "line": 269,
+        "value": 355
+      },
+      {
+        "line": 269,
+        "value": 306
+      },
+      {
+        "line": 269,
+        "value": 197
+      },
+      {
+        "line": 269,
+        "value": 322
+      },
+      {
+        "line": 271,
+        "value": 24
+      },
+      {
+        "line": 272,
+        "value": 24
+      },
+      {
+        "line": 273,
+        "value": 42
+      },
+      {
+        "line": 273,
+        "value": 14
+      },
+      {
+        "line": 273,
+        "value": 300
+      },
+      {
+        "line": 274,
+        "value": 42
+      },
+      {
+        "line": 274,
+        "value": 272
+      },
+      {
+        "line": 274,
+        "value": 11
+      },
+      {
+        "line": 282,
+        "value": 29
+      },
+      {
+        "line": 283,
+        "value": 42
+      },
+      {
+        "line": 283,
+        "value": 75
+      },
+      {
+        "line": 286,
+        "value": 42
+      },
+      {
+        "line": 286,
+        "value": 490
+      },
+      {
+        "line": 286,
+        "value": 528
+      },
+      {
+        "line": 286,
+        "value": 140
+      },
+      {
+        "line": 287,
+        "value": 57
+      },
+      {
+        "line": 287,
+        "value": 608
+      },
+      {
+        "line": 287,
+        "value": 10
+      },
+      {
+        "line": 288,
+        "value": 57
+      },
+      {
+        "line": 288,
+        "value": 587
+      },
+      {
+        "line": 288,
+        "value": 498
+      },
+      {
+        "line": 288,
+        "value": 9.4
+      },
+      {
+        "line": 288,
+        "value": 14
+      },
+      {
+        "line": 289,
+        "value": 57
+      },
+      {
+        "line": 289,
+        "value": 516
+      },
+      {
+        "line": 289,
+        "value": 10
+      },
+      {
+        "line": 290,
+        "value": 42
+      },
+      {
+        "line": 290,
+        "value": 466
+      },
+      {
+        "line": 290,
+        "value": 528
+      },
+      {
+        "line": 290,
+        "value": 9.5
+      },
+      {
+        "line": 290,
+        "value": 14
+      },
+      {
+        "line": 291,
+        "value": 42
+      },
+      {
+        "line": 291,
+        "value": 383
+      },
+      {
+        "line": 291,
+        "value": 528
+      },
+      {
+        "line": 291,
+        "value": 9.5
+      },
+      {
+        "line": 291,
+        "value": 14
+      },
+      {
+        "line": 292,
+        "value": 42
+      },
+      {
+        "line": 292,
+        "value": 292
+      },
+      {
+        "line": 292,
+        "value": 10
+      },
+      {
+        "line": 293,
+        "value": 42
+      },
+      {
+        "line": 293,
+        "value": 270
+      },
+      {
+        "line": 293,
+        "value": 528
+      },
+      {
+        "line": 293,
+        "value": 9.5
+      },
+      {
+        "line": 293,
+        "value": 14
+      },
+      {
+        "line": 294,
+        "value": 42
+      },
+      {
+        "line": 294,
+        "value": 139
+      },
+      {
+        "line": 295,
+        "value": 42
+      },
+      {
+        "line": 295,
+        "value": 75
+      },
+      {
+        "line": 295,
+        "value": 528
+      },
+      {
+        "line": 295,
+        "value": 9
+      },
+      {
+        "line": 295,
+        "value": 13
+      },
+      {
+        "line": 304,
+        "value": 1
+      },
+      {
+        "line": 306,
+        "value": 42
+      },
+      {
+        "line": 306,
+        "value": 156
+      },
+      {
+        "line": 306,
+        "value": 10
+      },
+      {
+        "line": 307,
+        "value": 42
+      },
+      {
+        "line": 307,
+        "value": 136
+      },
+      {
+        "line": 307,
+        "value": 528
+      },
+      {
+        "line": 307,
+        "value": 9.2
+      },
+      {
+        "line": 307,
+        "value": 14
+      },
+      {
+        "line": 308,
+        "value": 42
+      },
+      {
+        "line": 308,
+        "value": 66
+      },
+      {
+        "line": 308,
+        "value": 528
+      },
+      {
+        "line": 308,
+        "value": 8.8
+      },
+      {
+        "line": 308,
+        "value": 13
+      },
+      {
+        "line": 311,
+        "value": 102
+      },
+      {
+        "line": 311,
+        "value": 223
+      },
+      {
+        "line": 311,
+        "value": 410
+      },
+      {
+        "line": 311,
+        "value": 420
+      },
+      {
+        "line": 312,
+        "value": 42
+      },
+      {
+        "line": 312,
+        "value": 594
+      },
+      {
+        "line": 312,
+        "value": 9
+      },
+      {
+        "line": 312,
+        "value": 105
+      },
+      {
+        "line": 312,
+        "value": 590
+      },
+      {
+        "line": 312,
+        "value": 273
+      },
+      {
+        "line": 312,
+        "value": 611
+      },
+      {
+        "line": 313,
+        "value": 42
+      },
+      {
+        "line": 313,
+        "value": 499
+      },
+      {
+        "line": 313,
+        "value": 9
+      },
+      {
+        "line": 313,
+        "value": 118
+      },
+      {
+        "line": 313,
+        "value": 496
+      },
+      {
+        "line": 313,
+        "value": 198
+      },
+      {
+        "line": 313,
+        "value": 492
+      },
+      {
+        "line": 314,
+        "value": 42
+      },
+      {
+        "line": 314,
+        "value": 398
+      },
+      {
+        "line": 314,
+        "value": 9
+      },
+      {
+        "line": 314,
+        "value": 137
+      },
+      {
+        "line": 314,
+        "value": 402
+      },
+      {
+        "line": 314,
+        "value": 307
+      },
+      {
+        "line": 314,
+        "value": 441
+      },
+      {
+        "line": 315,
+        "value": 421
+      },
+      {
+        "line": 315,
+        "value": 565
+      },
+      {
+        "line": 315,
+        "value": 9
+      },
+      {
+        "line": 315,
+        "value": 417
+      },
+      {
+        "line": 315,
+        "value": 559
+      },
+      {
+        "line": 315,
+        "value": 381
+      },
+      {
+        "line": 315,
+        "value": 573
+      },
+      {
+        "line": 316,
+        "value": 433
+      },
+      {
+        "line": 316,
+        "value": 474
+      },
+      {
+        "line": 316,
+        "value": 8
+      },
+      {
+        "line": 316,
+        "value": 429
+      },
+      {
+        "line": 316,
+        "value": 478
+      },
+      {
+        "line": 316,
+        "value": 406
+      },
+      {
+        "line": 316,
+        "value": 525
+      },
+      {
+        "line": 317,
+        "value": 433
+      },
+      {
+        "line": 317,
+        "value": 400
+      },
+      {
+        "line": 317,
+        "value": 8
+      },
+      {
+        "line": 317,
+        "value": 429
+      },
+      {
+        "line": 317,
+        "value": 404
+      },
+      {
+        "line": 317,
+        "value": 406
+      },
+      {
+        "line": 317,
+        "value": 488
+      },
+      {
+        "line": 318,
+        "value": 421
+      },
+      {
+        "line": 318,
+        "value": 610
+      },
+      {
+        "line": 318,
+        "value": 8
+      },
+      {
+        "line": 318,
+        "value": 417
+      },
+      {
+        "line": 318,
+        "value": 606
+      },
+      {
+        "line": 318,
+        "value": 406
+      },
+      {
+        "line": 318,
+        "value": 557
+      },
+      {
+        "line": 319,
+        "value": 42
+      },
+      {
+        "line": 319,
+        "value": 195
+      },
+      {
+        "line": 319,
+        "value": 9
+      },
+      {
+        "line": 321,
+        "value": 65
+      },
+      {
+        "line": 321,
+        "value": 92
+      },
+      {
+        "line": 321,
+        "value": 0.95
+      },
+      {
+        "line": 326,
+        "value": 8
+      },
+      {
+        "line": 326,
+        "value": 8
+      },
+      {
+        "line": 326,
+        "value": 8
+      },
+      {
+        "line": 326,
+        "value": 8
+      },
+      {
+        "line": 327,
+        "value": 1.5
+      },
+      {
+        "line": 328,
+        "value": 240
+      },
+      {
+        "line": 328,
+        "value": 170
+      },
+      {
+        "line": 328,
+        "value": 315
+      },
+      {
+        "line": 328,
+        "value": 9.2
+      },
+      {
+        "line": 328,
+        "value": 14
+      },
+      {
+        "line": 44,
+        "value": 1
+      },
+      {
+        "line": 58,
+        "value": 668
+      },
+      {
+        "line": 67,
+        "value": 3
+      },
+      {
+        "line": 67,
+        "value": 7
+      },
+      {
+        "line": 67,
+        "value": 4
+      },
+      {
+        "line": 68,
+        "value": 34
+      },
+      {
+        "line": 68,
+        "value": 5
+      },
+      {
+        "line": 69,
+        "value": 34
+      },
+      {
+        "line": 69,
+        "value": 14
+      },
+      {
+        "line": 69,
+        "value": 34
+      },
+      {
+        "line": 72,
+        "value": 4
+      },
+      {
+        "line": 72,
+        "value": 1
+      },
+      {
+        "line": 72,
+        "value": 0
+      },
+      {
+        "line": 73,
+        "value": 12
+      },
+      {
+        "line": 73,
+        "value": 24
+      },
+      {
+        "line": 74,
+        "value": 12
+      },
+      {
+        "line": 74,
+        "value": 8
+      },
+      {
+        "line": 74,
+        "value": 20
+      },
+      {
+        "line": 79,
+        "value": 0.5
+      },
+      {
+        "line": 79,
+        "value": 0.5
+      },
+      {
+        "line": 79,
+        "value": 0.6
+      },
+      {
+        "line": 84,
+        "value": 0.5
+      },
+      {
+        "line": 84,
+        "value": 0.5
+      },
+      {
+        "line": 84,
+        "value": 0.6
+      },
+      {
+        "line": 87,
+        "value": 90
+      },
+      {
+        "line": 87,
+        "value": 0
+      },
+      {
+        "line": 87,
+        "value": 0
+      },
+      {
+        "line": 91,
+        "value": 1
+      },
+      {
+        "line": 92,
+        "value": 1
+      },
+      {
+        "line": 92,
+        "value": 1
+      },
+      {
+        "line": 101,
+        "value": 0
+      },
+      {
+        "line": 102,
+        "value": 18
+      },
+      {
+        "line": 104,
+        "value": 10
+      },
+      {
+        "line": 110,
+        "value": 18
+      },
+      {
+        "line": 111,
+        "value": 37
+      },
+      {
+        "line": 114,
+        "value": 0
+      },
+      {
+        "line": 128,
+        "value": 370
+      },
+      {
+        "line": 128,
+        "value": 18
+      },
+      {
+        "line": 130,
+        "value": 18
+      },
+      {
+        "line": 135,
+        "value": 24
+      },
+      {
+        "line": 137,
+        "value": 8
+      },
+      {
+        "line": 140,
+        "value": 0
+      },
+      {
+        "line": 173,
+        "value": 32
+      },
+      {
+        "line": 173,
+        "value": 214
+      },
+      {
+        "line": 173,
+        "value": 44
+      },
+      {
+        "line": 173,
+        "value": 238
+      },
+      {
+        "line": 183,
+        "value": 38
+      },
+      {
+        "line": 183,
+        "value": 437
+      },
+      {
+        "line": 183,
+        "value": 53
+      },
+      {
+        "line": 192,
+        "value": 80
+      },
+      {
+        "line": 192,
+        "value": 250
+      },
+      {
+        "line": 193,
+        "value": 205
+      },
+      {
+        "line": 197,
+        "value": 610
+      },
+      {
+        "line": 197,
+        "value": 8
+      },
+      {
+        "line": 198,
+        "value": 80
+      },
+      {
+        "line": 211,
+        "value": 23
+      },
+      {
+        "line": 226,
+        "value": 285
+      },
+      {
+        "line": 226,
+        "value": 1
+      },
+      {
+        "line": 226,
+        "value": 270
+      },
+      {
+        "line": 227,
+        "value": 285
+      },
+      {
+        "line": 227,
+        "value": 2
+      },
+      {
+        "line": 227,
+        "value": 270
+      },
+      {
+        "line": 228,
+        "value": 285
+      },
+      {
+        "line": 228,
+        "value": 3
+      },
+      {
+        "line": 228,
+        "value": 270
+      },
+      {
+        "line": 236,
+        "value": 285
+      },
+      {
+        "line": 236,
+        "value": 5
+      },
+      {
+        "line": 236,
+        "value": 270
+      },
+      {
+        "line": 237,
+        "value": 285
+      },
+      {
+        "line": 237,
+        "value": 6
+      },
+      {
+        "line": 237,
+        "value": 270
+      },
+      {
+        "line": 271,
+        "value": 42
+      },
+      {
+        "line": 271,
+        "value": 12
+      },
+      {
+        "line": 271,
+        "value": 300
+      },
+      {
+        "line": 272,
+        "value": 42
+      },
+      {
+        "line": 272,
+        "value": 13
+      },
+      {
+        "line": 272,
+        "value": 300
+      },
+      {
+        "line": 282,
+        "value": 43
+      },
+      {
+        "line": 282,
+        "value": 7
+      },
+      {
+        "line": 282,
+        "value": 7
+      },
+      {
+        "line": 282,
+        "value": 60
+      },
+      {
+        "line": 282,
+        "value": 497
+      },
+      {
+        "line": 282,
+        "value": 9.5
+      },
+      {
+        "line": 282,
+        "value": 14
+      },
+      {
+        "line": 305,
+        "value": 20
+      },
+      {
+        "line": 322,
+        "value": 18
+      },
+      {
+        "line": 322,
+        "value": 70
+      },
+      {
+        "line": 323,
+        "value": 45
+      },
+      {
+        "line": 323,
+        "value": 70
+      },
+      {
+        "line": 324,
+        "value": 30
+      },
+      {
+        "line": 324,
+        "value": 30
+      },
+      {
+        "line": 325,
+        "value": 110
+      },
+      {
+        "line": 325,
+        "value": 18
+      },
+      {
+        "line": 326,
+        "value": 14
+      },
+      {
+        "line": 326,
+        "value": 20
+      },
+      {
+        "line": 326,
+        "value": 15
+      },
+      {
+        "line": 326,
+        "value": 20
+      },
+      {
+        "line": 326,
+        "value": 47
+      },
+      {
+        "line": 326,
+        "value": 38
+      },
+      {
+        "line": 326,
+        "value": 108
+      },
+      {
+        "line": 326,
+        "value": 73
+      },
+      {
+        "line": 58,
+        "value": 9.5
+      },
+      {
+        "line": 58,
+        "value": 14
+      },
+      {
+        "line": 79,
+        "value": 4
+      },
+      {
+        "line": 79,
+        "value": 4
+      },
+      {
+        "line": 80,
+        "value": 1
+      },
+      {
+        "line": 82,
+        "value": 3
+      },
+      {
+        "line": 82,
+        "value": 2
+      },
+      {
+        "line": 82,
+        "value": 6
+      },
+      {
+        "line": 82,
+        "value": 3
+      },
+      {
+        "line": 82,
+        "value": 2
+      },
+      {
+        "line": 82,
+        "value": 4
+      },
+      {
+        "line": 84,
+        "value": 4
+      },
+      {
+        "line": 84,
+        "value": 4
+      },
+      {
+        "line": 85,
+        "value": 1
+      },
+      {
+        "line": 87,
+        "value": 4
+      },
+      {
+        "line": 87,
+        "value": 2
+      },
+      {
+        "line": 90,
+        "value": 0
+      },
+      {
+        "line": 98,
+        "value": 1
+      },
+      {
+        "line": 100,
+        "value": 0
+      },
+      {
+        "line": 102,
+        "value": 0.5
+      },
+      {
+        "line": 107,
+        "value": 2
+      },
+      {
+        "line": 112,
+        "value": 25
+      },
+      {
+        "line": 113,
+        "value": 26
+      },
+      {
+        "line": 120,
+        "value": 45
+      },
+      {
+        "line": 120,
+        "value": 1782
+      },
+      {
+        "line": 122,
+        "value": 4
+      },
+      {
+        "line": 123,
+        "value": 260
+      },
+      {
+        "line": 124,
+        "value": 7
+      },
+      {
+        "line": 128,
+        "value": 10
+      },
+      {
+        "line": 128,
+        "value": 1782
+      },
+      {
+        "line": 131,
+        "value": 25
+      },
+      {
+        "line": 137,
+        "value": 7
+      },
+      {
+        "line": 137,
+        "value": 16
+      },
+      {
+        "line": 140,
+        "value": 2
+      },
+      {
+        "line": 143,
+        "value": 11
+      },
+      {
+        "line": 193,
+        "value": 45
+      },
+      {
+        "line": 193,
+        "value": 1782
+      },
+      {
+        "line": 194,
+        "value": 80
+      },
+      {
+        "line": 196,
+        "value": 1.5
+      },
+      {
+        "line": 197,
+        "value": 20
+      },
+      {
+        "line": 200,
+        "value": 8
+      },
+      {
+        "line": 201,
+        "value": 8
+      },
+      {
+        "line": 211,
+        "value": 55
+      },
+      {
+        "line": 211,
+        "value": 295
+      },
+      {
+        "line": 212,
+        "value": 295
+      },
+      {
+        "line": 212,
+        "value": 295
+      },
+      {
+        "line": 212,
+        "value": 400
+      },
+      {
+        "line": 282,
+        "value": 2
+      },
+      {
+        "line": 282,
+        "value": 1
+      },
+      {
+        "line": 282,
+        "value": 0
+      },
+      {
+        "line": 305,
+        "value": 42
+      },
+      {
+        "line": 305,
+        "value": 528
+      },
+      {
+        "line": 322,
+        "value": 18
+      },
+      {
+        "line": 324,
+        "value": 45
+      },
+      {
+        "line": 324,
+        "value": 40
+      },
+      {
+        "line": 325,
+        "value": 45.5
+      },
+      {
+        "line": 325,
+        "value": 70
+      },
+      {
+        "line": 327,
+        "value": 75
+      },
+      {
+        "line": 327,
+        "value": 55
+      },
+      {
+        "line": 327,
+        "value": 15
+      },
+      {
+        "line": 327,
+        "value": 55
+      },
+      {
+        "line": 332,
+        "value": 2
+      },
+      {
+        "line": 80,
+        "value": 1
+      },
+      {
+        "line": 81,
+        "value": 2
+      },
+      {
+        "line": 81,
+        "value": 2
+      },
+      {
+        "line": 82,
+        "value": 2
+      },
+      {
+        "line": 85,
+        "value": 1
+      },
+      {
+        "line": 86,
+        "value": 2
+      },
+      {
+        "line": 86,
+        "value": 2
+      },
+      {
+        "line": 100,
+        "value": 0
+      },
+      {
+        "line": 106,
+        "value": 22.5
+      },
+      {
+        "line": 106,
+        "value": 125
+      },
+      {
+        "line": 106,
+        "value": 877.5
+      },
+      {
+        "line": 106,
+        "value": 1725
+      },
+      {
+        "line": 106,
+        "value": 877.5
+      },
+      {
+        "line": 106,
+        "value": 125
+      },
+      {
+        "line": 106,
+        "value": 22.5
+      },
+      {
+        "line": 106,
+        "value": 1725
+      },
+      {
+        "line": 108,
+        "value": 2
+      },
+      {
+        "line": 110,
+        "value": 10
+      },
+      {
+        "line": 110,
+        "value": 1800
+      },
+      {
+        "line": 110,
+        "value": 910
+      },
+      {
+        "line": 110,
+        "value": 1800
+      },
+      {
+        "line": 111,
+        "value": 18
+      },
+      {
+        "line": 111,
+        "value": 1800
+      },
+      {
+        "line": 111,
+        "value": 918
+      },
+      {
+        "line": 111,
+        "value": 1800
+      },
+      {
+        "line": 112,
+        "value": 900
+      },
+      {
+        "line": 113,
+        "value": 1800
+      },
+      {
+        "line": 114,
+        "value": 45
+      },
+      {
+        "line": 114,
+        "value": 1550
+      },
+      {
+        "line": 114,
+        "value": 855
+      },
+      {
+        "line": 114,
+        "value": 1550
+      },
+      {
+        "line": 123,
+        "value": 45
+      },
+      {
+        "line": 126,
+        "value": 1
+      },
+      {
+        "line": 130,
+        "value": 10
+      },
+      {
+        "line": 130,
+        "value": 1800
+      },
+      {
+        "line": 130,
+        "value": 360
+      },
+      {
+        "line": 130,
+        "value": 1800
+      },
+      {
+        "line": 131,
+        "value": 350
+      },
+      {
+        "line": 143,
+        "value": 7
+      },
+      {
+        "line": 143,
+        "value": 15
+      },
+      {
+        "line": 143,
+        "value": 12
+      },
+      {
+        "line": 194,
+        "value": 1690
+      },
+      {
+        "line": 196,
+        "value": 205
+      },
+      {
+        "line": 196,
+        "value": 1
+      },
+      {
+        "line": 196,
+        "value": 0
+      },
+      {
+        "line": 199,
+        "value": 8
+      },
+      {
+        "line": 200,
+        "value": 26
+      },
+      {
+        "line": 200,
+        "value": 205
+      },
+      {
+        "line": 201,
+        "value": 26
+      },
+      {
+        "line": 201,
+        "value": 205
+      },
+      {
+        "line": 331,
+        "value": 36
+      },
+      {
+        "line": 331,
+        "value": 578
+      },
+      {
+        "line": 331,
+        "value": 24
+      },
+      {
+        "line": 331,
+        "value": 775
+      },
+      {
+        "line": 81,
+        "value": 4
+      },
+      {
+        "line": 81,
+        "value": 4
+      },
+      {
+        "line": 86,
+        "value": 4
+      },
+      {
+        "line": 86,
+        "value": 4
+      },
+      {
+        "line": 97,
+        "value": 2
+      },
+      {
+        "line": 97,
+        "value": 2
+      },
+      {
+        "line": 100,
+        "value": 1
+      },
+      {
+        "line": 108,
+        "value": 1
+      },
+      {
+        "line": 108,
+        "value": 0
+      },
+      {
+        "line": 124,
+        "value": 110
+      },
+      {
+        "line": 194,
+        "value": 1690
+      },
+      {
+        "line": 196,
+        "value": 22.5
+      },
+      {
+        "line": 199,
+        "value": 26
+      },
+      {
+        "line": 199,
+        "value": 205
+      },
+      {
+        "line": 200,
+        "value": 1736
+      },
+      {
+        "line": 201,
+        "value": 1736
+      },
+      {
+        "line": 210,
+        "value": 125
+      },
+      {
+        "line": 331,
+        "value": 1
+      },
+      {
+        "line": 331,
+        "value": 2
+      },
+      {
+        "line": 97,
+        "value": 2
+      },
+      {
+        "line": 97,
+        "value": 2
+      },
+      {
+        "line": 98,
+        "value": 0
+      },
+      {
+        "line": 98,
+        "value": 1
+      },
+      {
+        "line": 98,
+        "value": 0
+      },
+      {
+        "line": 98,
+        "value": 1
+      },
+      {
+        "line": 107,
+        "value": 0
+      },
+      {
+        "line": 107,
+        "value": 1
+      },
+      {
+        "line": 107,
+        "value": 0
+      },
+      {
+        "line": 107,
+        "value": 1
+      },
+      {
+        "line": 124,
+        "value": 4
+      },
+      {
+        "line": 331,
+        "value": 1
+      },
+      {
+        "line": 331,
+        "value": 3
+      },
+      {
+        "line": 331,
+        "value": 2
+      },
+      {
+        "line": 331,
+        "value": 4
+      },
+      {
+        "line": 124,
+        "value": 2
+      },
+      {
+        "line": 124,
+        "value": 4
+      },
+      {
+        "line": 124,
+        "value": 1
+      },
+      {
+        "line": 199,
+        "value": 35
+      },
+      {
+        "line": 210,
+        "value": 125
+      },
+      {
+        "line": 199,
+        "value": 20
+      },
+      {
+        "line": 199,
+        "value": 50
+      }
+    ],
+    "globals": [
+      "P1_PARAMETER_SHA256",
+      "INK",
+      "TEXT",
+      "MUTED",
+      "PAPER",
+      "TAN",
+      "LINE",
+      "RUST",
+      "PALE",
+      "M",
+      "c",
+      "page_no",
+      "text_boxes"
+    ]
+  },
+  {
+    "file": "deliverables/DIYWOODPLANNER_Alderline_X4/source/export_patterns.py",
+    "lines": 65,
+    "numeric_literals": [
+      {
+        "line": 30,
+        "value": 4
+      },
+      {
+        "line": 49,
+        "value": 1e-06
+      },
+      {
+        "line": 50,
+        "value": 1e-06
+      },
+      {
+        "line": 55,
+        "value": 2
+      },
+      {
+        "line": 57,
+        "value": 2
+      },
+      {
+        "line": 24,
+        "value": 0
+      },
+      {
+        "line": 24,
+        "value": 0
+      },
+      {
+        "line": 27,
+        "value": 0
+      },
+      {
+        "line": 34,
+        "value": 0
+      },
+      {
+        "line": 34,
+        "value": 100
+      },
+      {
+        "line": 34,
+        "value": 0
+      },
+      {
+        "line": 35,
+        "value": 0
+      },
+      {
+        "line": 48,
+        "value": 2
+      },
+      {
+        "line": 54,
+        "value": 0
+      },
+      {
+        "line": 54,
+        "value": 0
+      },
+      {
+        "line": 56,
+        "value": 2
+      },
+      {
+        "line": 26,
+        "value": 0
+      },
+      {
+        "line": 31,
+        "value": 7
+      },
+      {
+        "line": 31,
+        "value": 1
+      },
+      {
+        "line": 34,
+        "value": 20
+      },
+      {
+        "line": 34,
+        "value": 20
+      },
+      {
+        "line": 34,
+        "value": 30
+      },
+      {
+        "line": 35,
+        "value": 45
+      },
+      {
+        "line": 52,
+        "value": 2
+      },
+      {
+        "line": 8,
+        "value": 0
+      },
+      {
+        "line": 8,
+        "value": 1
+      },
+      {
+        "line": 8,
+        "value": 1
+      },
+      {
+        "line": 8,
+        "value": 0
+      },
+      {
+        "line": 10,
+        "value": 1
+      },
+      {
+        "line": 10,
+        "value": 1
+      },
+      {
+        "line": 13,
+        "value": 1e-08
+      },
+      {
+        "line": 14,
+        "value": 1e-08
+      },
+      {
+        "line": 26,
+        "value": 1
+      },
+      {
+        "line": 34,
+        "value": 4
+      },
+      {
+        "line": 35,
+        "value": 4
+      },
+      {
+        "line": 49,
+        "value": 35
+      },
+      {
+        "line": 57,
+        "value": 20
+      },
+      {
+        "line": 60,
+        "value": 20
+      },
+      {
+        "line": 60,
+        "value": 50
+      },
+      {
+        "line": 50,
+        "value": 35
+      },
+      {
+        "line": 50,
+        "value": 2
+      },
+      {
+        "line": 57,
+        "value": 20
+      },
+      {
+        "line": 12,
+        "value": 1
+      },
+      {
+        "line": 12,
+        "value": 1
+      },
+      {
+        "line": 38,
+        "value": 10
+      },
+      {
+        "line": 38,
+        "value": 65
+      },
+      {
+        "line": 56,
+        "value": 20
+      },
+      {
+        "line": 56,
+        "value": 20
+      },
+      {
+        "line": 57,
+        "value": 1
+      },
+      {
+        "line": 50,
+        "value": 2
+      },
+      {
+        "line": 56,
+        "value": 1
+      },
+      {
+        "line": 56,
+        "value": 20
+      },
+      {
+        "line": 56,
+        "value": 2
+      },
+      {
+        "line": 48,
+        "value": 1
+      },
+      {
+        "line": 48,
+        "value": 1
+      }
+    ],
+    "globals": []
+  },
+  {
+    "file": "deliverables/DIYWOODPLANNER_Alderline_X4/source/model.py",
+    "lines": 185,
+    "numeric_literals": [
+      {
+        "line": 13,
+        "value": 1
+      },
+      {
+        "line": 32,
+        "value": 90
+      },
+      {
+        "line": 36,
+        "value": 2
+      },
+      {
+        "line": 66,
+        "value": 0.64
+      },
+      {
+        "line": 66,
+        "value": 0.43
+      },
+      {
+        "line": 66,
+        "value": 0.26
+      },
+      {
+        "line": 66,
+        "value": 0.72
+      },
+      {
+        "line": 66,
+        "value": 0.52
+      },
+      {
+        "line": 66,
+        "value": 0.32
+      },
+      {
+        "line": 66,
+        "value": 0.72
+      },
+      {
+        "line": 66,
+        "value": 0.52
+      },
+      {
+        "line": 66,
+        "value": 0.32
+      },
+      {
+        "line": 67,
+        "value": 0.82
+      },
+      {
+        "line": 67,
+        "value": 0.67
+      },
+      {
+        "line": 67,
+        "value": 0.46
+      },
+      {
+        "line": 67,
+        "value": 0.85
+      },
+      {
+        "line": 67,
+        "value": 0.71
+      },
+      {
+        "line": 67,
+        "value": 0.51
+      },
+      {
+        "line": 67,
+        "value": 0.74
+      },
+      {
+        "line": 67,
+        "value": 0.55
+      },
+      {
+        "line": 67,
+        "value": 0.35
+      },
+      {
+        "line": 68,
+        "value": 0.65
+      },
+      {
+        "line": 68,
+        "value": 0.49
+      },
+      {
+        "line": 68,
+        "value": 0.32
+      },
+      {
+        "line": 68,
+        "value": 0.76
+      },
+      {
+        "line": 68,
+        "value": 0.57
+      },
+      {
+        "line": 68,
+        "value": 0.36
+      },
+      {
+        "line": 68,
+        "value": 0.24
+      },
+      {
+        "line": 68,
+        "value": 0.28
+      },
+      {
+        "line": 68,
+        "value": 0.29
+      },
+      {
+        "line": 118,
+        "value": 2
+      },
+      {
+        "line": 142,
+        "value": 40
+      },
+      {
+        "line": 143,
+        "value": 8
+      },
+      {
+        "line": 144,
+        "value": 24
+      },
+      {
+        "line": 145,
+        "value": 16
+      },
+      {
+        "line": 146,
+        "value": 32
+      },
+      {
+        "line": 147,
+        "value": 4
+      },
+      {
+        "line": 148,
+        "value": 2
+      },
+      {
+        "line": 149,
+        "value": 4
+      },
+      {
+        "line": 150,
+        "value": 8
+      },
+      {
+        "line": 151,
+        "value": 2
+      },
+      {
+        "line": 152,
+        "value": 4
+      },
+      {
+        "line": 20,
+        "value": 2
+      },
+      {
+        "line": 21,
+        "value": 2
+      },
+      {
+        "line": 23,
+        "value": 2
+      },
+      {
+        "line": 24,
+        "value": 2
+      },
+      {
+        "line": 25,
+        "value": 2
+      },
+      {
+        "line": 26,
+        "value": 2
+      },
+      {
+        "line": 27,
+        "value": 1
+      },
+      {
+        "line": 27,
+        "value": 0
+      },
+      {
+        "line": 33,
+        "value": 2
+      },
+      {
+        "line": 44,
+        "value": 2
+      },
+      {
+        "line": 45,
+        "value": 2
+      },
+      {
+        "line": 58,
+        "value": 0
+      },
+      {
+        "line": 58,
+        "value": 0
+      },
+      {
+        "line": 77,
+        "value": 0
+      },
+      {
+        "line": 112,
+        "value": 0
+      },
+      {
+        "line": 121,
+        "value": 2
+      },
+      {
+        "line": 175,
+        "value": 0.4
+      },
+      {
+        "line": 175,
+        "value": 0.3
+      },
+      {
+        "line": 40,
+        "value": 90
+      },
+      {
+        "line": 78,
+        "value": 0
+      },
+      {
+        "line": 79,
+        "value": 0
+      },
+      {
+        "line": 80,
+        "value": 1
+      },
+      {
+        "line": 124,
+        "value": 0
+      },
+      {
+        "line": 124,
+        "value": 0
+      },
+      {
+        "line": 131,
+        "value": 4
+      },
+      {
+        "line": 132,
+        "value": 8
+      },
+      {
+        "line": 133,
+        "value": 2
+      },
+      {
+        "line": 134,
+        "value": 4
+      },
+      {
+        "line": 135,
+        "value": 1
+      },
+      {
+        "line": 136,
+        "value": 2
+      },
+      {
+        "line": 137,
+        "value": 8
+      },
+      {
+        "line": 138,
+        "value": 16
+      },
+      {
+        "line": 139,
+        "value": 2
+      },
+      {
+        "line": 166,
+        "value": 2
+      },
+      {
+        "line": 167,
+        "value": 2
+      },
+      {
+        "line": 179,
+        "value": 1
+      },
+      {
+        "line": 179,
+        "value": 0.7
+      },
+      {
+        "line": 179,
+        "value": 0
+      },
+      {
+        "line": 179,
+        "value": 0
+      },
+      {
+        "line": 179,
+        "value": 0
+      },
+      {
+        "line": 179,
+        "value": 0
+      },
+      {
+        "line": 179,
+        "value": 0
+      },
+      {
+        "line": 179,
+        "value": 1
+      },
+      {
+        "line": 179,
+        "value": 0
+      },
+      {
+        "line": 63,
+        "value": 1
+      },
+      {
+        "line": 80,
+        "value": 1
+      },
+      {
+        "line": 86,
+        "value": 1
+      },
+      {
+        "line": 105,
+        "value": 0
+      },
+      {
+        "line": 105,
+        "value": 0
+      },
+      {
+        "line": 105,
+        "value": 9
+      },
+      {
+        "line": 105,
+        "value": 0
+      },
+      {
+        "line": 105,
+        "value": 0
+      },
+      {
+        "line": 105,
+        "value": 9
+      },
+      {
+        "line": 106,
+        "value": 0
+      },
+      {
+        "line": 106,
+        "value": 0
+      },
+      {
+        "line": 106,
+        "value": 9
+      },
+      {
+        "line": 106,
+        "value": 0
+      },
+      {
+        "line": 106,
+        "value": 0
+      },
+      {
+        "line": 106,
+        "value": 9
+      },
+      {
+        "line": 115,
+        "value": 1
+      },
+      {
+        "line": 119,
+        "value": 2
+      },
+      {
+        "line": 120,
+        "value": 0
+      },
+      {
+        "line": 120,
+        "value": 0
+      },
+      {
+        "line": 120,
+        "value": 0
+      },
+      {
+        "line": 120,
+        "value": 0
+      },
+      {
+        "line": 125,
+        "value": 0
+      },
+      {
+        "line": 125,
+        "value": 1
+      },
+      {
+        "line": 125,
+        "value": 0
+      },
+      {
+        "line": 125,
+        "value": 2.75
+      },
+      {
+        "line": 125,
+        "value": 1
+      },
+      {
+        "line": 179,
+        "value": 1
+      },
+      {
+        "line": 179,
+        "value": 1
+      },
+      {
+        "line": 179,
+        "value": 1
+      },
+      {
+        "line": 181,
+        "value": 0.6
+      },
+      {
+        "line": 181,
+        "value": 1100
+      },
+      {
+        "line": 181,
+        "value": 1500
+      },
+      {
+        "line": 181,
+        "value": 30
+      },
+      {
+        "line": 181,
+        "value": 30
+      },
+      {
+        "line": 86,
+        "value": 1
+      },
+      {
+        "line": 87,
+        "value": 0
+      },
+      {
+        "line": 87,
+        "value": 0
+      },
+      {
+        "line": 87,
+        "value": 3
+      },
+      {
+        "line": 93,
+        "value": 0
+      },
+      {
+        "line": 93,
+        "value": 1
+      },
+      {
+        "line": 93,
+        "value": 0
+      },
+      {
+        "line": 93,
+        "value": 4
+      },
+      {
+        "line": 94,
+        "value": 0
+      },
+      {
+        "line": 94,
+        "value": 0
+      },
+      {
+        "line": 94,
+        "value": 4
+      },
+      {
+        "line": 99,
+        "value": 1
+      },
+      {
+        "line": 105,
+        "value": 9
+      },
+      {
+        "line": 106,
+        "value": 9
+      },
+      {
+        "line": 110,
+        "value": 1
+      },
+      {
+        "line": 115,
+        "value": 1
+      },
+      {
+        "line": 116,
+        "value": 0
+      },
+      {
+        "line": 116,
+        "value": 0
+      },
+      {
+        "line": 116,
+        "value": 3
+      },
+      {
+        "line": 119,
+        "value": 2
+      },
+      {
+        "line": 125,
+        "value": 0
+      },
+      {
+        "line": 125,
+        "value": 1
+      },
+      {
+        "line": 126,
+        "value": 1
+      },
+      {
+        "line": 42,
+        "value": 2
+      },
+      {
+        "line": 84,
+        "value": 0
+      },
+      {
+        "line": 84,
+        "value": 0
+      },
+      {
+        "line": 84,
+        "value": 4
+      },
+      {
+        "line": 87,
+        "value": 9
+      },
+      {
+        "line": 94,
+        "value": 1
+      },
+      {
+        "line": 95,
+        "value": 1
+      },
+      {
+        "line": 98,
+        "value": 1
+      },
+      {
+        "line": 107,
+        "value": 1
+      },
+      {
+        "line": 108,
+        "value": 1
+      },
+      {
+        "line": 116,
+        "value": 9
+      },
+      {
+        "line": 121,
+        "value": 0
+      },
+      {
+        "line": 170,
+        "value": 0
+      },
+      {
+        "line": 87,
+        "value": 9
+      },
+      {
+        "line": 93,
+        "value": 2
+      },
+      {
+        "line": 94,
+        "value": 2
+      },
+      {
+        "line": 121,
+        "value": 1
+      },
+      {
+        "line": 84,
+        "value": 2
+      }
+    ],
+    "globals": [
+      "ROOT",
+      "OUT",
+      "P",
+      "D",
+      "COLORS",
+      "HARDWARE"
+    ]
+  },
+  {
+    "file": "deliverables/DIYWOODPLANNER_Alderline_X4/source/qa_pdf.py",
+    "lines": 42,
+    "numeric_literals": [
+      {
+        "line": 32,
+        "value": 4
+      },
+      {
+        "line": 33,
+        "value": 2
+      },
+      {
+        "line": 34,
+        "value": 15
+      },
+      {
+        "line": 18,
+        "value": 2
+      },
+      {
+        "line": 22,
+        "value": 200
+      },
+      {
+        "line": 24,
+        "value": 1224
+      },
+      {
+        "line": 26,
+        "value": 306
+      },
+      {
+        "line": 26,
+        "value": 416
+      },
+      {
+        "line": 28,
+        "value": 1
+      },
+      {
+        "line": 28,
+        "value": 4
+      },
+      {
+        "line": 28,
+        "value": 5
+      },
+      {
+        "line": 28,
+        "value": 14
+      },
+      {
+        "line": 36,
+        "value": 2
+      },
+      {
+        "line": 23,
+        "value": 306
+      },
+      {
+        "line": 23,
+        "value": 396
+      },
+      {
+        "line": 24,
+        "value": 416
+      },
+      {
+        "line": 24,
+        "value": 4
+      },
+      {
+        "line": 26,
+        "value": 4
+      },
+      {
+        "line": 26,
+        "value": 4
+      },
+      {
+        "line": 38,
+        "value": 2
+      },
+      {
+        "line": 39,
+        "value": 2
+      },
+      {
+        "line": 10,
+        "value": 1.5
+      },
+      {
+        "line": 10,
+        "value": 1.5
+      },
+      {
+        "line": 19,
+        "value": 0
+      },
+      {
+        "line": 19,
+        "value": 0
+      },
+      {
+        "line": 20,
+        "value": 3
+      },
+      {
+        "line": 20,
+        "value": 3
+      },
+      {
+        "line": 26,
+        "value": 8
+      },
+      {
+        "line": 26,
+        "value": 397
+      },
+      {
+        "line": 26,
+        "value": 1
+      },
+      {
+        "line": 22,
+        "value": 1
+      },
+      {
+        "line": 10,
+        "value": 1
+      },
+      {
+        "line": 17,
+        "value": 34
+      },
+      {
+        "line": 17,
+        "value": 580
+      },
+      {
+        "line": 17,
+        "value": 12
+      },
+      {
+        "line": 17,
+        "value": 774
+      },
+      {
+        "line": 21,
+        "value": 1
+      },
+      {
+        "line": 21,
+        "value": 1
+      },
+      {
+        "line": 21,
+        "value": 1
+      },
+      {
+        "line": 17,
+        "value": 1
+      },
+      {
+        "line": 23,
+        "value": 1
+      }
+    ],
+    "globals": []
+  },
+  {
+    "file": "deliverables/DIYWOODPLANNER_Alderline_X4/source/render.py",
+    "lines": 73,
+    "numeric_literals": [
+      {
+        "line": 11,
+        "value": 1450
+      },
+      {
+        "line": 11,
+        "value": 1900
+      },
+      {
+        "line": 61,
+        "value": 0.66
+      },
+      {
+        "line": 11,
+        "value": 1.6
+      },
+      {
+        "line": 11,
+        "value": 1.5
+      },
+      {
+        "line": 28,
+        "value": 0
+      },
+      {
+        "line": 28,
+        "value": 0
+      },
+      {
+        "line": 29,
+        "value": 2
+      },
+      {
+        "line": 58,
+        "value": 0
+      },
+      {
+        "line": 58,
+        "value": 1
+      },
+      {
+        "line": 11,
+        "value": 2.6
+      },
+      {
+        "line": 13,
+        "value": 0
+      },
+      {
+        "line": 13,
+        "value": 0
+      },
+      {
+        "line": 13,
+        "value": 1
+      },
+      {
+        "line": 31,
+        "value": 3
+      },
+      {
+        "line": 32,
+        "value": 1.0
+      },
+      {
+        "line": 59,
+        "value": 1
+      },
+      {
+        "line": 69,
+        "value": 800
+      },
+      {
+        "line": 69,
+        "value": 1500
+      },
+      {
+        "line": 70,
+        "value": 800
+      },
+      {
+        "line": 70,
+        "value": 1500
+      },
+      {
+        "line": 71,
+        "value": 1400
+      },
+      {
+        "line": 71,
+        "value": 1400
+      },
+      {
+        "line": 19,
+        "value": 3
+      },
+      {
+        "line": 21,
+        "value": 100
+      },
+      {
+        "line": 22,
+        "value": 280
+      },
+      {
+        "line": 24,
+        "value": 230
+      },
+      {
+        "line": 28,
+        "value": 80
+      },
+      {
+        "line": 28,
+        "value": 80
+      },
+      {
+        "line": 30,
+        "value": 3
+      },
+      {
+        "line": 30,
+        "value": 250
+      },
+      {
+        "line": 30,
+        "value": 247
+      },
+      {
+        "line": 30,
+        "value": 241
+      },
+      {
+        "line": 32,
+        "value": 0.3
+      },
+      {
+        "line": 32,
+        "value": 0.7
+      },
+      {
+        "line": 37,
+        "value": 1e-09
+      },
+      {
+        "line": 39,
+        "value": 1e-08
+      },
+      {
+        "line": 40,
+        "value": 0
+      },
+      {
+        "line": 41,
+        "value": 0
+      },
+      {
+        "line": 45,
+        "value": 1e-09
+      },
+      {
+        "line": 51,
+        "value": 0.72
+      },
+      {
+        "line": 59,
+        "value": 2
+      },
+      {
+        "line": 60,
+        "value": 0.4
+      },
+      {
+        "line": 62,
+        "value": 0
+      },
+      {
+        "line": 62,
+        "value": 255
+      },
+      {
+        "line": 69,
+        "value": 3
+      },
+      {
+        "line": 69,
+        "value": 1.5
+      },
+      {
+        "line": 70,
+        "value": 3
+      },
+      {
+        "line": 70,
+        "value": 1.3
+      },
+      {
+        "line": 73,
+        "value": 3
+      },
+      {
+        "line": 73,
+        "value": 1.4
+      },
+      {
+        "line": 20,
+        "value": 0
+      },
+      {
+        "line": 20,
+        "value": 200
+      },
+      {
+        "line": 21,
+        "value": 2
+      },
+      {
+        "line": 22,
+        "value": 2
+      },
+      {
+        "line": 23,
+        "value": 1
+      },
+      {
+        "line": 23,
+        "value": 170
+      },
+      {
+        "line": 24,
+        "value": 1
+      },
+      {
+        "line": 28,
+        "value": 0
+      },
+      {
+        "line": 28,
+        "value": 0
+      },
+      {
+        "line": 28,
+        "value": 1
+      },
+      {
+        "line": 28,
+        "value": 1
+      },
+      {
+        "line": 40,
+        "value": 1
+      },
+      {
+        "line": 41,
+        "value": 1
+      },
+      {
+        "line": 43,
+        "value": 0.5
+      },
+      {
+        "line": 43,
+        "value": 0.5
+      },
+      {
+        "line": 47,
+        "value": 1
+      },
+      {
+        "line": 51,
+        "value": 0.28
+      },
+      {
+        "line": 52,
+        "value": 255
+      },
+      {
+        "line": 69,
+        "value": 2
+      },
+      {
+        "line": 70,
+        "value": 2
+      },
+      {
+        "line": 73,
+        "value": 1.4
+      },
+      {
+        "line": 20,
+        "value": 200
+      },
+      {
+        "line": 23,
+        "value": 170
+      },
+      {
+        "line": 36,
+        "value": 1
+      },
+      {
+        "line": 36,
+        "value": 0
+      },
+      {
+        "line": 36,
+        "value": 2
+      },
+      {
+        "line": 36,
+        "value": 0
+      },
+      {
+        "line": 48,
+        "value": 2
+      },
+      {
+        "line": 51,
+        "value": 0
+      },
+      {
+        "line": 34,
+        "value": 2
+      },
+      {
+        "line": 34,
+        "value": 2
+      },
+      {
+        "line": 43,
+        "value": 1
+      },
+      {
+        "line": 43,
+        "value": 1
+      },
+      {
+        "line": 44,
+        "value": 1
+      },
+      {
+        "line": 44,
+        "value": 1
+      },
+      {
+        "line": 44,
+        "value": 0
+      },
+      {
+        "line": 44,
+        "value": 0
+      },
+      {
+        "line": 44,
+        "value": 0
+      },
+      {
+        "line": 44,
+        "value": 0
+      },
+      {
+        "line": 44,
+        "value": 1
+      },
+      {
+        "line": 44,
+        "value": 1
+      },
+      {
+        "line": 48,
+        "value": 2
+      },
+      {
+        "line": 48,
+        "value": 2
+      },
+      {
+        "line": 49,
+        "value": 1
+      },
+      {
+        "line": 49,
+        "value": 1
+      },
+      {
+        "line": 50,
+        "value": 1e-06
+      },
+      {
+        "line": 46,
+        "value": 1
+      },
+      {
+        "line": 46,
+        "value": 1
+      },
+      {
+        "line": 46,
+        "value": 0
+      },
+      {
+        "line": 46,
+        "value": 0
+      },
+      {
+        "line": 46,
+        "value": 0
+      },
+      {
+        "line": 46,
+        "value": 1
+      },
+      {
+        "line": 47,
+        "value": 1
+      },
+      {
+        "line": 47,
+        "value": 1
+      },
+      {
+        "line": 47,
+        "value": 0
+      },
+      {
+        "line": 47,
+        "value": 0
+      },
+      {
+        "line": 47,
+        "value": 0
+      },
+      {
+        "line": 47,
+        "value": 1
+      },
+      {
+        "line": 50,
+        "value": 1e-06
+      },
+      {
+        "line": 50,
+        "value": 1e-06
+      },
+      {
+        "line": 54,
+        "value": 1
+      },
+      {
+        "line": 54,
+        "value": 1
+      },
+      {
+        "line": 55,
+        "value": 1
+      },
+      {
+        "line": 55,
+        "value": 1
+      },
+      {
+        "line": 34,
+        "value": 0
+      },
+      {
+        "line": 34,
+        "value": 1
+      },
+      {
+        "line": 40,
+        "value": 0
+      },
+      {
+        "line": 40,
+        "value": 0
+      },
+      {
+        "line": 41,
+        "value": 1
+      },
+      {
+        "line": 41,
+        "value": 1
+      }
+    ],
+    "globals": [
+      "M"
+    ]
+  },
+  {
+    "file": "deliverables/DIYWOODPLANNER_Alderline_X4/source/validate.py",
+    "lines": 115,
+    "numeric_literals": [
+      {
+        "line": 20,
+        "value": 0
+      },
+      {
+        "line": 21,
+        "value": 2
+      },
+      {
+        "line": 24,
+        "value": 1
+      },
+      {
+        "line": 35,
+        "value": 0
+      },
+      {
+        "line": 45,
+        "value": 9
+      },
+      {
+        "line": 52,
+        "value": 22.5
+      },
+      {
+        "line": 52,
+        "value": 877.5
+      },
+      {
+        "line": 56,
+        "value": 45
+      },
+      {
+        "line": 56,
+        "value": 855
+      },
+      {
+        "line": 82,
+        "value": 2
+      },
+      {
+        "line": 89,
+        "value": 1000000000.0
+      },
+      {
+        "line": 91,
+        "value": 12
+      },
+      {
+        "line": 26,
+        "value": 0.01
+      },
+      {
+        "line": 28,
+        "value": 1e-06
+      },
+      {
+        "line": 29,
+        "value": 29
+      },
+      {
+        "line": 35,
+        "value": 1
+      },
+      {
+        "line": 35,
+        "value": 2
+      },
+      {
+        "line": 37,
+        "value": 0
+      },
+      {
+        "line": 39,
+        "value": 1e-05
+      },
+      {
+        "line": 42,
+        "value": 18
+      },
+      {
+        "line": 42,
+        "value": 35
+      },
+      {
+        "line": 44,
+        "value": 35
+      },
+      {
+        "line": 44,
+        "value": 2
+      },
+      {
+        "line": 47,
+        "value": 16
+      },
+      {
+        "line": 57,
+        "value": 9
+      },
+      {
+        "line": 57,
+        "value": 341
+      },
+      {
+        "line": 64,
+        "value": 60
+      },
+      {
+        "line": 64,
+        "value": 30
+      },
+      {
+        "line": 64,
+        "value": 40
+      },
+      {
+        "line": 64,
+        "value": 18
+      },
+      {
+        "line": 64,
+        "value": 45
+      },
+      {
+        "line": 64,
+        "value": 18
+      },
+      {
+        "line": 64,
+        "value": 35
+      },
+      {
+        "line": 64,
+        "value": 1
+      },
+      {
+        "line": 64,
+        "value": 1
+      },
+      {
+        "line": 64,
+        "value": 16
+      },
+      {
+        "line": 64,
+        "value": 2
+      },
+      {
+        "line": 72,
+        "value": 12
+      },
+      {
+        "line": 73,
+        "value": 1e-08
+      },
+      {
+        "line": 75,
+        "value": 2400
+      },
+      {
+        "line": 75,
+        "value": 1
+      },
+      {
+        "line": 75,
+        "value": 1782
+      },
+      {
+        "line": 75,
+        "value": 4
+      },
+      {
+        "line": 75,
+        "value": 2400
+      },
+      {
+        "line": 75,
+        "value": 5
+      },
+      {
+        "line": 75,
+        "value": 260
+      },
+      {
+        "line": 75,
+        "value": 2
+      },
+      {
+        "line": 75,
+        "value": 2400
+      },
+      {
+        "line": 75,
+        "value": 8
+      },
+      {
+        "line": 75,
+        "value": 260
+      },
+      {
+        "line": 75,
+        "value": 1
+      },
+      {
+        "line": 75,
+        "value": 2400
+      },
+      {
+        "line": 75,
+        "value": 4
+      },
+      {
+        "line": 75,
+        "value": 490
+      },
+      {
+        "line": 75,
+        "value": 4
+      },
+      {
+        "line": 77,
+        "value": 20
+      },
+      {
+        "line": 94,
+        "value": 20
+      },
+      {
+        "line": 112,
+        "value": 1
+      },
+      {
+        "line": 18,
+        "value": 1e-05
+      },
+      {
+        "line": 18,
+        "value": 1e-05
+      },
+      {
+        "line": 18,
+        "value": 1e-05
+      },
+      {
+        "line": 18,
+        "value": 1e-05
+      },
+      {
+        "line": 23,
+        "value": 1e-05
+      },
+      {
+        "line": 23,
+        "value": 1e-05
+      },
+      {
+        "line": 23,
+        "value": 1e-05
+      },
+      {
+        "line": 37,
+        "value": 1
+      },
+      {
+        "line": 40,
+        "value": 10
+      },
+      {
+        "line": 49,
+        "value": 40
+      },
+      {
+        "line": 49,
+        "value": 8
+      },
+      {
+        "line": 58,
+        "value": 1710
+      },
+      {
+        "line": 58,
+        "value": 1762
+      },
+      {
+        "line": 59,
+        "value": 0.01
+      },
+      {
+        "line": 60,
+        "value": 48
+      },
+      {
+        "line": 61,
+        "value": 15
+      },
+      {
+        "line": 61,
+        "value": 6
+      },
+      {
+        "line": 61,
+        "value": 16
+      },
+      {
+        "line": 63,
+        "value": 19
+      },
+      {
+        "line": 63,
+        "value": 24
+      },
+      {
+        "line": 64,
+        "value": 35
+      },
+      {
+        "line": 64,
+        "value": 1
+      },
+      {
+        "line": 65,
+        "value": 45
+      },
+      {
+        "line": 65,
+        "value": 30
+      },
+      {
+        "line": 65,
+        "value": 45
+      },
+      {
+        "line": 65,
+        "value": 45
+      },
+      {
+        "line": 65,
+        "value": 18
+      },
+      {
+        "line": 68,
+        "value": 2
+      },
+      {
+        "line": 69,
+        "value": 90
+      },
+      {
+        "line": 69,
+        "value": 160
+      },
+      {
+        "line": 69,
+        "value": 490
+      },
+      {
+        "line": 69,
+        "value": 560
+      },
+      {
+        "line": 80,
+        "value": 940
+      },
+      {
+        "line": 80,
+        "value": 0
+      },
+      {
+        "line": 80,
+        "value": 810
+      },
+      {
+        "line": 80,
+        "value": 92
+      },
+      {
+        "line": 80,
+        "value": 940
+      },
+      {
+        "line": 80,
+        "value": 112
+      },
+      {
+        "line": 80,
+        "value": 810
+      },
+      {
+        "line": 80,
+        "value": 92
+      },
+      {
+        "line": 85,
+        "value": 3
+      },
+      {
+        "line": 86,
+        "value": 3
+      },
+      {
+        "line": 91,
+        "value": 3
+      },
+      {
+        "line": 92,
+        "value": 5
+      },
+      {
+        "line": 92,
+        "value": 4
+      },
+      {
+        "line": 92,
+        "value": 384
+      },
+      {
+        "line": 92,
+        "value": 8
+      },
+      {
+        "line": 92,
+        "value": 2
+      },
+      {
+        "line": 95,
+        "value": 0
+      },
+      {
+        "line": 95,
+        "value": 10
+      },
+      {
+        "line": 95,
+        "value": 0
+      },
+      {
+        "line": 95,
+        "value": 10
+      },
+      {
+        "line": 102,
+        "value": 2
+      },
+      {
+        "line": 28,
+        "value": 1
+      },
+      {
+        "line": 31,
+        "value": 1e-07
+      },
+      {
+        "line": 36,
+        "value": 6
+      },
+      {
+        "line": 44,
+        "value": 2
+      },
+      {
+        "line": 46,
+        "value": 0.01
+      },
+      {
+        "line": 49,
+        "value": 2
+      },
+      {
+        "line": 49,
+        "value": 2
+      },
+      {
+        "line": 53,
+        "value": 1690
+      },
+      {
+        "line": 55,
+        "value": 45
+      },
+      {
+        "line": 55,
+        "value": 305
+      },
+      {
+        "line": 61,
+        "value": 22.5
+      },
+      {
+        "line": 61,
+        "value": 4
+      },
+      {
+        "line": 61,
+        "value": 9
+      },
+      {
+        "line": 61,
+        "value": 3
+      },
+      {
+        "line": 61,
+        "value": 20
+      },
+      {
+        "line": 61,
+        "value": 4
+      },
+      {
+        "line": 63,
+        "value": 45
+      },
+      {
+        "line": 63,
+        "value": 26
+      },
+      {
+        "line": 63,
+        "value": 45
+      },
+      {
+        "line": 63,
+        "value": 21
+      },
+      {
+        "line": 69,
+        "value": 45
+      },
+      {
+        "line": 69,
+        "value": 15
+      },
+      {
+        "line": 69,
+        "value": 305
+      },
+      {
+        "line": 69,
+        "value": 15
+      },
+      {
+        "line": 69,
+        "value": 125
+      },
+      {
+        "line": 69,
+        "value": 525
+      },
+      {
+        "line": 70,
+        "value": 350
+      },
+      {
+        "line": 77,
+        "value": 3
+      },
+      {
+        "line": 80,
+        "value": 0
+      },
+      {
+        "line": 80,
+        "value": 0
+      },
+      {
+        "line": 80,
+        "value": 920
+      },
+      {
+        "line": 80,
+        "value": 370
+      },
+      {
+        "line": 80,
+        "value": 809
+      },
+      {
+        "line": 80,
+        "value": 348
+      },
+      {
+        "line": 81,
+        "value": 2440
+      },
+      {
+        "line": 81,
+        "value": 1220
+      },
+      {
+        "line": 106,
+        "value": 2
+      },
+      {
+        "line": 16,
+        "value": 0
+      },
+      {
+        "line": 18,
+        "value": 10
+      },
+      {
+        "line": 18,
+        "value": 360
+      },
+      {
+        "line": 31,
+        "value": 18
+      },
+      {
+        "line": 36,
+        "value": 1
+      },
+      {
+        "line": 36,
+        "value": 1e-06
+      },
+      {
+        "line": 47,
+        "value": 0.01
+      },
+      {
+        "line": 49,
+        "value": 10
+      },
+      {
+        "line": 49,
+        "value": 2
+      },
+      {
+        "line": 49,
+        "value": 2
+      },
+      {
+        "line": 49,
+        "value": 2
+      },
+      {
+        "line": 53,
+        "value": 20
+      },
+      {
+        "line": 53,
+        "value": 50
+      },
+      {
+        "line": 53,
+        "value": 20
+      },
+      {
+        "line": 53,
+        "value": 72
+      },
+      {
+        "line": 58,
+        "value": 1
+      },
+      {
+        "line": 58,
+        "value": 0
+      },
+      {
+        "line": 58,
+        "value": 0
+      },
+      {
+        "line": 58,
+        "value": 3
+      },
+      {
+        "line": 58,
+        "value": 40
+      },
+      {
+        "line": 71,
+        "value": 350
+      },
+      {
+        "line": 73,
+        "value": 855
+      },
+      {
+        "line": 73,
+        "value": 1600
+      },
+      {
+        "line": 80,
+        "value": 829
+      },
+      {
+        "line": 80,
+        "value": 390
+      },
+      {
+        "line": 80,
+        "value": 2
+      },
+      {
+        "line": 80,
+        "value": 2
+      },
+      {
+        "line": 92,
+        "value": 2
+      },
+      {
+        "line": 31,
+        "value": 400
+      },
+      {
+        "line": 55,
+        "value": 0
+      },
+      {
+        "line": 55,
+        "value": 1
+      },
+      {
+        "line": 55,
+        "value": 0
+      },
+      {
+        "line": 55,
+        "value": 4
+      },
+      {
+        "line": 55,
+        "value": 50
+      },
+      {
+        "line": 58,
+        "value": 20
+      },
+      {
+        "line": 80,
+        "value": 368
+      },
+      {
+        "line": 31,
+        "value": 1
+      },
+      {
+        "line": 55,
+        "value": 25
+      },
+      {
+        "line": 36,
+        "value": 2
+      }
+    ],
+    "globals": []
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "paper": "Letter",
+  "page_size_pt": [
+    612.0,
+    792.0
+  ],
+  "scale_pt_per_mm": 2.834645669291339,
+  "overlap_mm": 10.0,
+  "tiles": [
+    {
+      "row": 0,
+      "col": 0,
+      "x0_mm": 0.0,
+      "y0_mm": 0.0,
+      "width_mm": 179.89999999999998,
+      "height_mm": 133.17777777777778
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "x0_mm": 169.89999999999998,
+      "y0_mm": 0.0,
+      "width_mm": 179.89999999999998,
+      "height_mm": 133.17777777777778
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "x0_mm": 339.79999999999995,
+      "y0_mm": 0.0,
+      "width_mm": 179.89999999999998,
+      "height_mm": 133.17777777777778
+    }
+  ],
+  "calibration_horizontal_mm": 100,
+  "calibration_vertical_mm": 50,
+  "pattern_extent_mm": [
+    465.1612623596252,
+    35.0
+  ]
+}

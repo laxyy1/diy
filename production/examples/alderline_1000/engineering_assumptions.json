@@ -1,0 +1,16 @@
+{
+  "status": "ASSUMPTION-BASED ILLUSTRATION; NOT A LOAD RATING",
+  "assumed_effective_E_MPa": 6000.0,
+  "span_mm": 910.0,
+  "assumed_contents_mass_kg": 20.0,
+  "self_mass_kg": 3.7010844,
+  "I_mm4": 169128.0,
+  "instantaneous_deflection_mm": 2.248192100725361,
+  "bending_stress_MPa": 1.4073937749257666,
+  "limitations": [
+    "Effective E and density not supplier-verified.",
+    "Gross section; simply supported; uniform load; no creep, impact, defects, orthotropy, connections, racking or tipping.",
+    "No allowable stress, fastener capacity, acceptance threshold or working load assigned.",
+    "Width variant requires a new structural review and physical tests."
+  ]
+}

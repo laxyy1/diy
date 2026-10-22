@@ -1,0 +1,92 @@
+[
+  {
+    "id": "A",
+    "name": "Posts",
+    "qty": 4,
+    "t": 45.0,
+    "w": 45.0,
+    "length": 1782.0,
+    "material": "Hardwood",
+    "note": "Square ends; matched finished stock."
+  },
+  {
+    "id": "B",
+    "name": "Shelf side rails",
+    "qty": 8,
+    "t": 45.0,
+    "w": 70.0,
+    "length": 260.0,
+    "material": "Hardwood",
+    "note": "Two rail dowels per end."
+  },
+  {
+    "id": "C",
+    "name": "Upper side rails",
+    "qty": 2,
+    "t": 45.0,
+    "w": 92.0,
+    "length": 260.0,
+    "material": "Hardwood",
+    "note": "Two rail dowels per end."
+  },
+  {
+    "id": "D",
+    "name": "Shelf panels",
+    "qty": 4,
+    "t": 18.0,
+    "w": 348.0,
+    "length": 809.0,
+    "material": "Cabinet plywood",
+    "note": "Face grain along span; no notches."
+  },
+  {
+    "id": "E",
+    "name": "Top panel",
+    "qty": 1,
+    "t": 18.0,
+    "w": 370.0,
+    "length": 920.0,
+    "material": "Cabinet plywood",
+    "note": "Overhang from frame: 10 mm / 0.394 in."
+  },
+  {
+    "id": "F",
+    "name": "Front/rear top aprons",
+    "qty": 2,
+    "t": 18.0,
+    "w": 92.0,
+    "length": 810.0,
+    "material": "Cabinet plywood",
+    "note": "Two apron dowels per end."
+  },
+  {
+    "id": "G",
+    "name": "Shelf support cleats",
+    "qty": 8,
+    "t": 30.0,
+    "w": 30.0,
+    "length": 260.0,
+    "material": "Hardwood",
+    "note": "Transverse screws into side rails."
+  },
+  {
+    "id": "H",
+    "name": "X slats",
+    "qty": 16,
+    "t": 18.0,
+    "w": 35.0,
+    "length": 447.5881088177611,
+    "material": "Hardwood",
+    "note": "26.66 deg off square; 9 mm / 0.354 in lap; length along long edge."
+  },
+  {
+    "id": "J",
+    "name": "Rear steel straps",
+    "qty": 2,
+    "t": 1.0,
+    "w": 20.0,
+    "length": 1864.1182431142684,
+    "material": "Bracing steel",
+    "note": "End-hole pitch 1814.12 mm / 71.422 in; measure on squared case."
+  }
+]

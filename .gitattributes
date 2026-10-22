@@ -1,0 +1,6 @@
+# Native generated artifact bytes must survive checkout unchanged. Normal Git;
+# these attributes do not enable Git LFS or any external filter.
+production/examples/** -text
+production/examples/**/*.step -diff
+production/examples/**/*.pdf binary
+production/*.zip binary

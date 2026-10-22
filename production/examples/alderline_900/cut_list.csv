@@ -1,0 +1,10 @@
+id,name,qty,t,w,length,material,note
+A,Posts,4,45.0,45.0,1782.0,Hardwood,Square ends; matched finished stock.
+B,Shelf side rails,8,45.0,70.0,260.0,Hardwood,Two rail dowels per end.
+C,Upper side rails,2,45.0,92.0,260.0,Hardwood,Two rail dowels per end.
+D,Shelf panels,4,18.0,348.0,809.0,Cabinet plywood,Face grain along span; no notches.
+E,Top panel,1,18.0,370.0,920.0,Cabinet plywood,Overhang from frame: 10 mm / 0.394 in.
+F,Front/rear top aprons,2,18.0,92.0,810.0,Cabinet plywood,Two apron dowels per end.
+G,Shelf support cleats,8,30.0,30.0,260.0,Hardwood,Transverse screws into side rails.
+H,X slats,16,18.0,35.0,447.5881088177611,Hardwood,26.66 deg off square; 9 mm / 0.354 in lap; length along long edge.
+J,Rear steel straps,2,1.0,20.0,1864.1182431142684,Bracing steel,End-hole pitch 1814.12 mm / 71.422 in; measure on squared case.

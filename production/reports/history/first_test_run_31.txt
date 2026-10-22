@@ -1,0 +1,207 @@
+test_01_p1_files_unchanged (test_production.ProductionTests.test_01_p1_files_unchanged) ... ok
+test_02_original_run_all_checks_pass (test_production.ProductionTests.test_02_original_run_all_checks_pass) ... ok
+test_03_original_cut_list_regression (test_production.ProductionTests.test_03_original_cut_list_regression) ... /workspace/diy/production/tests/test_production.py:39: ResourceWarning: unclosed file <_io.TextIOWrapper name='/workspace/diy/deliverables/DIYWOODPLANNER_Alderline_X4/output/cut_list.csv' mode='r' encoding='UTF-8'>
+  old=list(csv.DictReader((REPO/'deliverables/DIYWOODPLANNER_Alderline_X4/output/cut_list.csv').open()));new=self.load(BASE,'cut_list.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_04_original_step_regression (test_production.ProductionTests.test_04_original_step_regression) ... ok
+test_05_width_1000_regression (test_production.ProductionTests.test_05_width_1000_regression) ... /workspace/diy/production/tests/test_production.py:55: ResourceWarning: unclosed file <_io.TextIOWrapper name='/workspace/diy/production/examples/alderline_900/hardware.csv' mode='r' encoding='UTF-8'>
+  a=list(csv.DictReader((BASE/'hardware.csv').open()));b=list(csv.DictReader((WIDE/'hardware.csv').open()));self.assertEqual(a,b)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/tests/test_production.py:55: ResourceWarning: unclosed file <_io.TextIOWrapper name='/workspace/diy/production/examples/alderline_1000/hardware.csv' mode='r' encoding='UTF-8'>
+  a=list(csv.DictReader((BASE/'hardware.csv').open()));b=list(csv.DictReader((WIDE/'hardware.csv').open()));self.assertEqual(a,b)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_06_two_deterministic_validation_runs (test_production.ProductionTests.test_06_two_deterministic_validation_runs) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/workspace/diy/production/examples/alderline_900/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/workspace/diy/production/examples/alderline_900/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/workspace/diy/production/examples/alderline_900/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_07_unit_conversion_exact_definition (test_production.ProductionTests.test_07_unit_conversion_exact_definition) ... ok
+test_08_stock_layout_deterministic_and_one_sheet (test_production.ProductionTests.test_08_stock_layout_deterministic_and_one_sheet) ... ok
+test_09_bad_hardware_csv_detected (test_production.ProductionTests.test_09_bad_hardware_csv_detected) ... /workspace/diy/production/tests/test_production.py:32: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-mk9yv21p/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  rows=list(csv.DictReader((path/name).open()));next(r for r in rows if r['id']==id)[field]=value
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-mk9yv21p/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-mk9yv21p/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-mk9yv21p/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_10_missing_connection_detected (test_production.ProductionTests.test_10_missing_connection_detected) ... ERROR
+test_11_duplicate_part_detected (test_production.ProductionTests.test_11_duplicate_part_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-tntnkq2d/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-tntnkq2d/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-tntnkq2d/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_12_missing_component_detected (test_production.ProductionTests.test_12_missing_component_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-drb8f6ep/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-drb8f6ep/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-drb8f6ep/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_13_bad_cut_dimension_detected (test_production.ProductionTests.test_13_bad_cut_dimension_detected) ... /workspace/diy/production/tests/test_production.py:32: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-wv9yaycm/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=list(csv.DictReader((path/name).open()));next(r for r in rows if r['id']==id)[field]=value
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-wv9yaycm/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-wv9yaycm/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-wv9yaycm/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_14_invalid_units_rejected (test_production.ProductionTests.test_14_invalid_units_rejected) ... ok
+test_15_collapsed_geometry_rejected (test_production.ProductionTests.test_15_collapsed_geometry_rejected) ... ok
+test_16_nonfinite_geometry_rejected (test_production.ProductionTests.test_16_nonfinite_geometry_rejected) ... ok
+test_17_broken_assembly_reference_detected (test_production.ProductionTests.test_17_broken_assembly_reference_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-ya4sbq6r/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-ya4sbq6r/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-ya4sbq6r/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_18_wrong_purchase_quantity_detected (test_production.ProductionTests.test_18_wrong_purchase_quantity_detected) ... /workspace/diy/production/tests/test_production.py:32: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-z2rpab88/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  rows=list(csv.DictReader((path/name).open()));next(r for r in rows if r['id']==id)[field]=value
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-z2rpab88/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-z2rpab88/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-z2rpab88/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_19_missing_lumber_kerf_detected (test_production.ProductionTests.test_19_missing_lumber_kerf_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-d41gfbw4/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-d41gfbw4/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-d41gfbw4/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_20_overlapping_plywood_detected (test_production.ProductionTests.test_20_overlapping_plywood_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-rl5m_axj/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-rl5m_axj/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-rl5m_axj/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_21_overlength_screw_detected (test_production.ProductionTests.test_21_overlength_screw_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-m45wa27z/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-m45wa27z/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-m45wa27z/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_22_wrong_template_scale_detected (test_production.ProductionTests.test_22_wrong_template_scale_detected) ... ok
+test_23_wrong_dxf_units_detected (test_production.ProductionTests.test_23_wrong_dxf_units_detected) ... ok
+test_24_wrong_pdf_hardware_detected (test_production.ProductionTests.test_24_wrong_pdf_hardware_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-jjm3lioq/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-jjm3lioq/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-jjm3lioq/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_25_wrong_pdf_conversion_detected (test_production.ProductionTests.test_25_wrong_pdf_conversion_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-8oypnnr5/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-8oypnnr5/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-8oypnnr5/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_26_missing_step_file_detected (test_production.ProductionTests.test_26_missing_step_file_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-qp7xx2bu/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-qp7xx2bu/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-qp7xx2bu/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_27_actual_cad_collision_detected (test_production.ProductionTests.test_27_actual_cad_collision_detected) ... /workspace/diy/production/woodplan/validate.py:34: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-l8dvmzqy/copy/cut_list.csv' mode='r' encoding='UTF-8'>
+  rows=load('cut_list.json');csvrows=list(csv.DictReader((out/'cut_list.csv').open()));index=load('parts.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:50: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-l8dvmzqy/copy/hardware.csv' mode='r' encoding='UTF-8'>
+  cons=load('connections.json');hw=list(csv.DictReader((out/'hardware.csv').open()));steps=load('assembly_steps.json')
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/diy/production/woodplan/validate.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-l8dvmzqy/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(csv.DictReader((out/'purchasing.csv').open()));buycounts={r['id']:int(r['quantity']) for r in buy}
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_28_pdf_build_deterministic (test_production.ProductionTests.test_28_pdf_build_deterministic) ... /workspace/diy/production/woodplan/products/alderline_manual.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/woodplan-negative-q1ncdkka/copy/purchasing.csv' mode='r' encoding='UTF-8'>
+  buy=list(__import__('csv').DictReader((out/'purchasing.csv').open()))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+FAIL
+test_29_no_internal_report_in_customer_manual (test_production.ProductionTests.test_29_no_internal_report_in_customer_manual) ... ok
+test_30_segment_distance_independent_examples (test_production.ProductionTests.test_30_segment_distance_independent_examples) ... ok
+test_31_all_final_pdf_qa_pass (test_production.ProductionTests.test_31_all_final_pdf_qa_pass) ... ok
+
+======================================================================
+ERROR: test_10_missing_connection_detected (test_production.ProductionTests.test_10_missing_connection_detected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/diy/production/tests/test_production.py", line 67, in test_10_missing_connection_detected
+    p=self.mutant();c=self.load(p,'connections.json');c=[c for i,c in enumerate(c) if i!=next(j for j,c in enumerate(c) if 'K3' in c['hardware'])];dump(p/'connections.json',c)
+                                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/diy/production/tests/test_production.py", line 67, in <genexpr>
+    p=self.mutant();c=self.load(p,'connections.json');c=[c for i,c in enumerate(c) if i!=next(j for j,c in enumerate(c) if 'K3' in c['hardware'])];dump(p/'connections.json',c)
+                                                                                                                                   ~^^^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+======================================================================
+FAIL: test_28_pdf_build_deterministic (test_production.ProductionTests.test_28_pdf_build_deterministic)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/diy/production/tests/test_production.py", line 116, in test_28_pdf_build_deterministic
+    p=self.mutant();before=sha(p/'manual.pdf');build_manual(alderline_manual.content(self.design,p,self.load(p,'cutting_layouts.json')),p);self.assertEqual(sha(p/'manual.pdf'),before)
+                                                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: '5cdc96da99baede6d6b5877b6d36ea3024922c704f06fe2c711b820fa00bd8df' != '88e96913e24debe80bb4769ceff2e0555913a52b63ae4a8bb5a88eb736e5ed40'
+- 5cdc96da99baede6d6b5877b6d36ea3024922c704f06fe2c711b820fa00bd8df
++ 88e96913e24debe80bb4769ceff2e0555913a52b63ae4a8bb5a88eb736e5ed40
+
+
+----------------------------------------------------------------------
+Ran 31 tests in 7.041s
+
+FAILED (failures=1, errors=1)

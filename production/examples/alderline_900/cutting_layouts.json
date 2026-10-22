@@ -1,0 +1,431 @@
+{
+  "lumber": [
+    {
+      "family": "A",
+      "id": "A-1",
+      "length": 2400.0,
+      "t": 45.0,
+      "w": 45.0,
+      "cursor": 1795.0,
+      "cuts": [
+        {
+          "group": "A",
+          "start": 10.0,
+          "length": 1782.0
+        }
+      ],
+      "waste_length": 618.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "A",
+      "id": "A-2",
+      "length": 2400.0,
+      "t": 45.0,
+      "w": 45.0,
+      "cursor": 1795.0,
+      "cuts": [
+        {
+          "group": "A",
+          "start": 10.0,
+          "length": 1782.0
+        }
+      ],
+      "waste_length": 618.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "A",
+      "id": "A-3",
+      "length": 2400.0,
+      "t": 45.0,
+      "w": 45.0,
+      "cursor": 1795.0,
+      "cuts": [
+        {
+          "group": "A",
+          "start": 10.0,
+          "length": 1782.0
+        }
+      ],
+      "waste_length": 618.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "A",
+      "id": "A-4",
+      "length": 2400.0,
+      "t": 45.0,
+      "w": 45.0,
+      "cursor": 1795.0,
+      "cuts": [
+        {
+          "group": "A",
+          "start": 10.0,
+          "length": 1782.0
+        }
+      ],
+      "waste_length": 618.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "B-C",
+      "id": "B-C-1",
+      "length": 2400.0,
+      "t": 45.0,
+      "w": 92.0,
+      "cursor": 2377.0,
+      "cuts": [
+        {
+          "group": "B",
+          "start": 10.0,
+          "length": 260.0
+        },
+        {
+          "group": "B",
+          "start": 273.0,
+          "length": 260.0
+        },
+        {
+          "group": "B",
+          "start": 536.0,
+          "length": 260.0
+        },
+        {
+          "group": "B",
+          "start": 799.0,
+          "length": 260.0
+        },
+        {
+          "group": "B",
+          "start": 1062.0,
+          "length": 260.0
+        },
+        {
+          "group": "B",
+          "start": 1325.0,
+          "length": 260.0
+        },
+        {
+          "group": "B",
+          "start": 1588.0,
+          "length": 260.0
+        },
+        {
+          "group": "B",
+          "start": 1851.0,
+          "length": 260.0
+        },
+        {
+          "group": "C",
+          "start": 2114.0,
+          "length": 260.0
+        }
+      ],
+      "waste_length": 60.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "B-C",
+      "id": "B-C-2",
+      "length": 2400.0,
+      "t": 45.0,
+      "w": 92.0,
+      "cursor": 273.0,
+      "cuts": [
+        {
+          "group": "C",
+          "start": 10.0,
+          "length": 260.0
+        }
+      ],
+      "waste_length": 2140.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "G",
+      "id": "G-1",
+      "length": 2400.0,
+      "t": 30.0,
+      "w": 30.0,
+      "cursor": 2114.0,
+      "cuts": [
+        {
+          "group": "G",
+          "start": 10.0,
+          "length": 260.0
+        },
+        {
+          "group": "G",
+          "start": 273.0,
+          "length": 260.0
+        },
+        {
+          "group": "G",
+          "start": 536.0,
+          "length": 260.0
+        },
+        {
+          "group": "G",
+          "start": 799.0,
+          "length": 260.0
+        },
+        {
+          "group": "G",
+          "start": 1062.0,
+          "length": 260.0
+        },
+        {
+          "group": "G",
+          "start": 1325.0,
+          "length": 260.0
+        },
+        {
+          "group": "G",
+          "start": 1588.0,
+          "length": 260.0
+        },
+        {
+          "group": "G",
+          "start": 1851.0,
+          "length": 260.0
+        }
+      ],
+      "waste_length": 320.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "H",
+      "id": "H-1",
+      "length": 2400.0,
+      "t": 18.0,
+      "w": 35.0,
+      "cursor": 1982.0,
+      "cuts": [
+        {
+          "group": "H",
+          "start": 10.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 503.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 996.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 1489.0,
+          "length": 490.0
+        }
+      ],
+      "waste_length": 440.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "H",
+      "id": "H-2",
+      "length": 2400.0,
+      "t": 18.0,
+      "w": 35.0,
+      "cursor": 1982.0,
+      "cuts": [
+        {
+          "group": "H",
+          "start": 10.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 503.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 996.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 1489.0,
+          "length": 490.0
+        }
+      ],
+      "waste_length": 440.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "H",
+      "id": "H-3",
+      "length": 2400.0,
+      "t": 18.0,
+      "w": 35.0,
+      "cursor": 1982.0,
+      "cuts": [
+        {
+          "group": "H",
+          "start": 10.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 503.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 996.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 1489.0,
+          "length": 490.0
+        }
+      ],
+      "waste_length": 440.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    },
+    {
+      "family": "H",
+      "id": "H-4",
+      "length": 2400.0,
+      "t": 18.0,
+      "w": 35.0,
+      "cursor": 1982.0,
+      "cuts": [
+        {
+          "group": "H",
+          "start": 10.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 503.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 996.0,
+          "length": 490.0
+        },
+        {
+          "group": "H",
+          "start": 1489.0,
+          "length": 490.0
+        }
+      ],
+      "waste_length": 440.0,
+      "waste_definition": "Includes end trims, crosscut kerfs and offcut; excludes ripping/defects."
+    }
+  ],
+  "plywood": [
+    {
+      "id": "PLY-1",
+      "length": 2440.0,
+      "width": 1220.0,
+      "free": [
+        [
+          10.0,
+          768.0,
+          829.0,
+          346.0
+        ],
+        [
+          10.0,
+          1226.0,
+          2440.0,
+          4.0
+        ],
+        [
+          839.0,
+          400.0,
+          111.0,
+          346.0
+        ],
+        [
+          1668.0,
+          746.0,
+          782.0,
+          368.0
+        ],
+        [
+          1670.0,
+          746.0,
+          780.0,
+          484.0
+        ],
+        [
+          1779.0,
+          10.0,
+          671.0,
+          1220.0
+        ]
+      ],
+      "pieces": [
+        {
+          "id": "E-1",
+          "group": "E",
+          "length": 920.0,
+          "width": 370.0,
+          "x": 10.0,
+          "y": 10.0
+        },
+        {
+          "id": "D-1",
+          "group": "D",
+          "length": 809.0,
+          "width": 348.0,
+          "x": 950.0,
+          "y": 10.0
+        },
+        {
+          "id": "D-2",
+          "group": "D",
+          "length": 809.0,
+          "width": 348.0,
+          "x": 950.0,
+          "y": 378.0
+        },
+        {
+          "id": "D-3",
+          "group": "D",
+          "length": 809.0,
+          "width": 348.0,
+          "x": 10.0,
+          "y": 400.0
+        },
+        {
+          "id": "D-4",
+          "group": "D",
+          "length": 809.0,
+          "width": 348.0,
+          "x": 839.0,
+          "y": 746.0
+        },
+        {
+          "id": "F-1",
+          "group": "F",
+          "length": 810.0,
+          "width": 92.0,
+          "x": 10.0,
+          "y": 1114.0
+        },
+        {
+          "id": "F-2",
+          "group": "F",
+          "length": 810.0,
+          "width": 92.0,
+          "x": 840.0,
+          "y": 1114.0
+        }
+      ],
+      "waste_area_mm2": 1361232.0,
+      "waste_fraction": 0.45728030099435635
+    }
+  ]
+}

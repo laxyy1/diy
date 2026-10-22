@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "pages": 3,
+  "page_bounds_issues": [],
+  "text_overlap_candidates": [],
+  "pdf_sha256": "4188a2cd2ba04a1c7f63c135dd4525f656c586525d009c4140a7fa44d932a96b",
+  "visual_review_status": "assistant-reviewed",
+  "limitations": "Automated bounds/collisions cannot establish drawing legibility or technical correctness; inspect rendered pages.",
+  "reviewer": "Codex assistant visual inspection",
+  "reviewed_pages": [
+    1,
+    2,
+    3
+  ],
+  "human_commercial_review": "not performed"
+}

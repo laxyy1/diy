@@ -1,0 +1,41 @@
+{
+  "paper": "A4",
+  "page_size_pt": [
+    595.2755905511812,
+    841.8897637795277
+  ],
+  "scale_pt_per_mm": 2.834645669291339,
+  "overlap_mm": 10.0,
+  "tiles": [
+    {
+      "row": 0,
+      "col": 0,
+      "x0_mm": 0.0,
+      "y0_mm": 0.0,
+      "width_mm": 174.0,
+      "height_mm": 150.7777777777778
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "x0_mm": 164.0,
+      "y0_mm": 0.0,
+      "width_mm": 174.0,
+      "height_mm": 150.7777777777778
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "x0_mm": 328.0,
+      "y0_mm": 0.0,
+      "width_mm": 174.0,
+      "height_mm": 150.7777777777778
+    }
+  ],
+  "calibration_horizontal_mm": 100,
+  "calibration_vertical_mm": 50,
+  "pattern_extent_mm": [
+    465.1612623596252,
+    35.0
+  ]
+}

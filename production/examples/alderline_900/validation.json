@@ -1,0 +1,1320 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "id": "parts.unique_ids",
+      "passed": true,
+      "detail": "['A-LF', 'A-LR', 'B-L1', 'B-L2', 'B-L3', 'B-L4', 'C-L5', 'G-L1', 'G-L2', 'G-L3', 'G-L4', 'H-L1a', 'H-L1b', 'H-L2a', 'H-L2b', 'H-L3a', 'H-L3b', 'H-L4a', 'H-L4b', 'A-RF', 'A-RR', 'B-R1', 'B-R2', 'B-R3', 'B-R4', 'C-R5', 'G-R1', 'G-R2', 'G-R3', 'G-R4', 'H-R1a', 'H-R1b', 'H-R2a', 'H-R2b', 'H-R3a', 'H-R3b', 'H-R4a', 'H-R4b', 'D-1', 'D-2', 'D-3', 'D-4', 'E-1', 'F-F', 'F-R', 'J-1', 'J-2']",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "parts.expected_ids",
+      "passed": true,
+      "detail": "missing []; unexpected []",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "catalog.groups",
+      "passed": true,
+      "detail": "One row per designed group",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "catalog.cad_counts",
+      "passed": true,
+      "detail": "Part index group counts match product topology",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "catalog.json",
+      "passed": true,
+      "detail": "Finished mm sizes and quantities independently checked",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "catalog.csv",
+      "passed": true,
+      "detail": "Finished mm sizes and quantities independently checked",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.A-LF",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.A-LR",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-L1",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-L2",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-L3",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-L4",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.C-L5",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-L1",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-L2",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-L3",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-L4",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L1a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L1b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L2a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L2b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L3a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L3b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L4a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-L4b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.A-RF",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.A-RR",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-R1",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-R2",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-R3",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.B-R4",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.C-R5",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-R1",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-R2",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-R3",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.G-R4",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R1a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R1b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R2a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R2b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R3a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R3b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R4a",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.H-R4b",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.D-1",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.D-2",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.D-3",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.D-4",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.E-1",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.F-F",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.F-R",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.J-1",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "part.stock.J-2",
+      "passed": true,
+      "detail": "Each CAD component mapped to its cut-stock dimensions",
+      "category": "catalog",
+      "scope": "Verifies exported IDs, dimensions and counts against independent product rules, not material grade or physical fit."
+    },
+    {
+      "id": "hardware.connection_recipe",
+      "passed": true,
+      "detail": "Connection-site totals vs independent topology recipe",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "hardware.csv",
+      "passed": true,
+      "detail": "Exported hardware quantities vs connection sites and topology",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "connections.unique",
+      "passed": true,
+      "detail": "No duplicate connection IDs",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "connections.references",
+      "passed": true,
+      "detail": "Every connection names existing component IDs",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "assembly.references",
+      "passed": true,
+      "detail": "Step and connection references resolve uniquely",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "assembly.connection_coverage",
+      "passed": true,
+      "detail": "Each connection is allocated to exactly one step",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "assembly.part_coverage",
+      "passed": true,
+      "detail": "Every component appears in an assembly step",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "screws.tip_containment",
+      "passed": true,
+      "detail": "Nominal tip containment; bad screws []",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "screws.axis_clearance",
+      "passed": true,
+      "detail": "[]",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "joinery.bearing",
+      "passed": true,
+      "detail": "Positive gap and configured minimum bearing; minimum is a geometric design rule, not strength evidence",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "joinery.bore_depth",
+      "passed": true,
+      "detail": "Blind drill stop leaves timber beyond nominal bore",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "brace.blank",
+      "passed": true,
+      "detail": "Angled-end extremity plus trimming allowance fits rough blank",
+      "category": "stock",
+      "scope": "Verifies coverage, stock dimensions, kerf, end trims and arithmetic waste; assumes sound stock and is not an optimized saw sequence."
+    },
+    {
+      "id": "hardware.angle_tip_containment",
+      "passed": true,
+      "detail": "Assumed angle thickness leaves 14 mm K9 embed; actual hardware needs verification",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "joinery.brace_rail_edge",
+      "passed": true,
+      "detail": "Every X end screw centre meets the configured 15 mm rail-edge rule; geometric rule only, no capacity inferred",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "stock.lumber",
+      "passed": true,
+      "detail": "Every blank, inter-cut kerf, end trim, section and residual length checked",
+      "category": "stock",
+      "scope": "Verifies coverage, stock dimensions, kerf, end trims and arithmetic waste; assumes sound stock and is not an optimized saw sequence."
+    },
+    {
+      "id": "stock.lumber_coverage",
+      "passed": true,
+      "detail": "Every lumber part allocated once",
+      "category": "stock",
+      "scope": "Verifies coverage, stock dimensions, kerf, end trims and arithmetic waste; assumes sound stock and is not an optimized saw sequence."
+    },
+    {
+      "id": "stock.plywood",
+      "passed": true,
+      "detail": "Unrotated sheet bounds, piece dimensions, kerf separation and waste checked",
+      "category": "stock",
+      "scope": "Verifies coverage, stock dimensions, kerf, end trims and arithmetic waste; assumes sound stock and is not an optimized saw sequence."
+    },
+    {
+      "id": "stock.plywood_coverage",
+      "passed": true,
+      "detail": "Each plywood part allocated once, face grain follows span",
+      "category": "stock",
+      "scope": "Verifies coverage, stock dimensions, kerf, end trims and arithmetic waste; assumes sound stock and is not an optimized saw sequence."
+    },
+    {
+      "id": "stock.purchasing",
+      "passed": true,
+      "detail": "Purchase quantities match boards, sheets and steel parts",
+      "category": "stock",
+      "scope": "Verifies coverage, stock dimensions, kerf, end trims and arithmetic waste; assumes sound stock and is not an optimized saw sequence."
+    },
+    {
+      "id": "cad.file_coverage",
+      "passed": true,
+      "detail": "One STEP file per distinct component ID",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.A-LR",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.A-LR",
+      "passed": true,
+      "detail": "Bounds [0.0, 305.0, 0.0, 45.0, 350.0, 1782.0]; volume residual 0.00000003 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L2a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L2a",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 524.999999999962, 0.0, 295.0, 925.0000000000404]; volume residual -0.00000025 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.F-R",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.F-R",
+      "passed": true,
+      "detail": "Bounds [45.0, 332.0, 1690.0, 855.0, 350.0, 1782.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L1a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L1a",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 124.99999999996209, 0.0, 295.0, 525.0000000000404]; volume residual -0.00000025 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R2a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R2a",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 524.999999999962, 918.0, 295.0, 925.0000000000404]; volume residual -0.00000025 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.A-LF",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.A-LF",
+      "passed": true,
+      "detail": "Bounds [0.0, 0.0, 0.0, 45.0, 45.0, 1782.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R1a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R1a",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 124.99999999996209, 918.0, 295.0, 525.0000000000404]; volume residual -0.00000025 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L3b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L3b",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 924.999999999962, 0.0, 295.0, 1325.0000000000405]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-L4",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-L4",
+      "passed": true,
+      "detail": "Bounds [45.0, 45.0, 1330.0, 75.0, 305.0, 1360.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.D-4",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.D-4",
+      "passed": true,
+      "detail": "Bounds [45.5, 1.0, 1360.0, 854.5, 349.0, 1378.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R2b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R2b",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 524.999999999962, 918.0, 295.0, 925.0000000000404]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.A-RF",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.A-RF",
+      "passed": true,
+      "detail": "Bounds [855.0, 0.0, 0.0, 900.0, 45.0, 1782.0]; volume residual -0.00000002 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-R4",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-R4",
+      "passed": true,
+      "detail": "Bounds [825.0, 45.0, 1330.0, 855.0, 305.0, 1360.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.C-L5",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.C-L5",
+      "passed": true,
+      "detail": "Bounds [0.0, 45.0, 1690.0, 45.0, 305.0, 1782.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R4a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R4a",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 1324.999999999962, 918.0, 295.0, 1725.0000000000405]; volume residual -0.00000026 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.D-1",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.D-1",
+      "passed": true,
+      "detail": "Bounds [45.5, 1.0, 160.0, 854.5, 349.0, 178.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.D-3",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.D-3",
+      "passed": true,
+      "detail": "Bounds [45.5, 1.0, 960.0, 854.5, 349.0, 978.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L2b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L2b",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 524.999999999962, 0.0, 295.0, 925.0000000000404]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.A-RR",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.A-RR",
+      "passed": true,
+      "detail": "Bounds [855.0, 305.0, 0.0, 900.0, 350.0, 1782.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L1b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L1b",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 124.99999999996209, 0.0, 295.0, 525.0000000000404]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.E-1",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.E-1",
+      "passed": true,
+      "detail": "Bounds [-10.0, -10.0, 1782.0, 910.0, 360.0, 1800.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-L2",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-L2",
+      "passed": true,
+      "detail": "Bounds [0.0, 45.0, 490.0, 45.0, 305.0, 560.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-R2",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-R2",
+      "passed": true,
+      "detail": "Bounds [825.0, 45.0, 530.0, 855.0, 305.0, 560.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.C-R5",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.C-R5",
+      "passed": true,
+      "detail": "Bounds [855.0, 45.0, 1690.0, 900.0, 305.0, 1782.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-L1",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-L1",
+      "passed": true,
+      "detail": "Bounds [0.0, 45.0, 90.0, 45.0, 305.0, 160.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-R4",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-R4",
+      "passed": true,
+      "detail": "Bounds [855.0, 45.0, 1290.0, 900.0, 305.0, 1360.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.D-2",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.D-2",
+      "passed": true,
+      "detail": "Bounds [45.5, 1.0, 560.0, 854.5, 349.0, 578.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-L4",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-L4",
+      "passed": true,
+      "detail": "Bounds [0.0, 45.0, 1290.0, 45.0, 305.0, 1360.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-L1",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-L1",
+      "passed": true,
+      "detail": "Bounds [45.0, 45.0, 130.0, 75.0, 305.0, 160.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-R3",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-R3",
+      "passed": true,
+      "detail": "Bounds [825.0, 45.0, 930.0, 855.0, 305.0, 960.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-R1",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-R1",
+      "passed": true,
+      "detail": "Bounds [825.0, 45.0, 130.0, 855.0, 305.0, 160.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-L3",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-L3",
+      "passed": true,
+      "detail": "Bounds [45.0, 45.0, 930.0, 75.0, 305.0, 960.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L4a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L4a",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 1324.999999999962, 0.0, 295.0, 1725.0000000000405]; volume residual -0.00000026 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-R2",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-R2",
+      "passed": true,
+      "detail": "Bounds [855.0, 45.0, 490.0, 900.0, 305.0, 560.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R4b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R4b",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 1324.999999999962, 918.0, 295.0, 1725.0000000000405]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-R3",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-R3",
+      "passed": true,
+      "detail": "Bounds [855.0, 45.0, 890.0, 900.0, 305.0, 960.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.F-F",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.F-F",
+      "passed": true,
+      "detail": "Bounds [45.0, 0.0, 1690.0, 855.0, 18.0, 1782.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R1b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R1b",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 124.99999999996209, 918.0, 295.0, 525.0000000000404]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R3a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R3a",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 924.999999999962, 918.0, 295.0, 1325.0000000000405]; volume residual -0.00000025 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L3a",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L3a",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 924.999999999962, 0.0, 295.0, 1325.0000000000405]; volume residual -0.00000025 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-L4b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-L4b",
+      "passed": true,
+      "detail": "Bounds [-18.0, 55.0, 1324.999999999962, 0.0, 295.0, 1725.0000000000405]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.G-L2",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.G-L2",
+      "passed": true,
+      "detail": "Bounds [45.0, 45.0, 530.0, 75.0, 305.0, 560.0]; volume residual 0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.J-2",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.J-2",
+      "passed": true,
+      "detail": "Bounds [1.8977045641975891, 351.0, 98.237687132976, 898.10229543573, 352.0, 1751.762312867]; volume residual -0.00000037 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-L3",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-L3",
+      "passed": true,
+      "detail": "Bounds [0.0, 45.0, 890.0, 45.0, 305.0, 960.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.B-R1",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.B-R1",
+      "passed": true,
+      "detail": "Bounds [855.0, 45.0, 90.0, 900.0, 305.0, 160.0]; volume residual -0.00000000 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.J-1",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.J-1",
+      "passed": true,
+      "detail": "Bounds [1.8977045637454921, 350.0, 98.23768713296926, 898.1022954361824, 351.0, 1751.762312867]; volume residual 0.00000046 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.valid.H-R3b",
+      "passed": true,
+      "detail": "One valid positive solid after STEP read-back",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dimensions.H-R3b",
+      "passed": true,
+      "detail": "Bounds [900.0, 55.0, 924.999999999962, 918.0, 295.0, 1325.0000000000405]; volume residual 0.00000030 mm3 vs independent stock/bores/lap equations",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.assembly_count",
+      "passed": true,
+      "detail": "47",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.assembly_vs_parts",
+      "passed": true,
+      "detail": "Assembly vs individual STEP volume multiset",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.intersections",
+      "passed": true,
+      "detail": "[]",
+      "category": "geometry",
+      "scope": "Verifies delivered CAD validity, bounds, analytic volumes and clashes; cannot establish strength or fabrication quality."
+    },
+    {
+      "id": "cad.dowel_site_contract",
+      "passed": true,
+      "detail": "Unique bore IDs, positions, diameters and embeds vs independent mating-joint equations",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "cad.dowel_paths",
+      "passed": true,
+      "detail": "Nominal bore paths checked; blocked []",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "cad.screw_receiving_paths",
+      "passed": true,
+      "detail": "Full nominal shank envelope in receiving timber; unsupported paths []",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "cad.screw_attached_paths",
+      "passed": true,
+      "detail": "Shank through attached wood; invalid paths []; purchased washer/steel clearance holes excluded",
+      "category": "connections",
+      "scope": "Verifies referenced parts, nominal bore/screw paths and counted sites; does not assign fastener capacities."
+    },
+    {
+      "id": "pdf.hardware_table",
+      "passed": true,
+      "detail": "Unique visible ID / quantity rows: {'K1': 40, 'K2': 8, 'K3': 24, 'K4': 16, 'K5': 32, 'K6': 4, 'K7': 2, 'K8': 4, 'K9': 8, 'K10': 2, 'K11': 4}",
+      "category": "document",
+      "scope": "Verifies visible PDF data against schedules and unit conversion; human visual review is separate."
+    },
+    {
+      "id": "pdf.cut_table",
+      "passed": true,
+      "detail": "Unique visible cut-list ID / quantity rows: {'A': 4, 'B': 8, 'C': 2, 'D': 4, 'E': 1, 'F': 2, 'G': 8, 'H': 16, 'J': 2}",
+      "category": "document",
+      "scope": "Verifies visible PDF data against schedules and unit conversion; human visual review is separate."
+    },
+    {
+      "id": "pdf.cut_dimensions",
+      "passed": true,
+      "detail": "Visible finished-size triples vs independent CAD/cut dimensions; 0.01 mm display rounding only",
+      "category": "document",
+      "scope": "Verifies visible PDF data against schedules and unit conversion; human visual review is separate."
+    },
+    {
+      "id": "pdf.assembly_references",
+      "passed": true,
+      "detail": "Visible component references with explicit stock-board IDs; unknown [], missing []",
+      "category": "document",
+      "scope": "Verifies visible PDF data against schedules and unit conversion; human visual review is separate."
+    },
+    {
+      "id": "pdf.dimensions",
+      "passed": true,
+      "detail": "{'Frame width': 900.0, 'Opening': 810.0, 'Shelf length': 809.0, 'Top width': 920.0, 'Overall width': 936.0}",
+      "category": "document",
+      "scope": "Verifies visible PDF data against schedules and unit conversion; human visual review is separate."
+    },
+    {
+      "id": "pdf.unit_conversions",
+      "passed": true,
+      "detail": "76 visible conversions; 25.4 mm/in, 0.001 in display rounding",
+      "category": "document",
+      "scope": "Verifies visible PDF data against schedules and unit conversion; human visual review is separate."
+    },
+    {
+      "id": "pdf.internal_report_separation",
+      "passed": true,
+      "detail": "No internal test result or assumed load scenario advertised in customer manual",
+      "category": "document",
+      "scope": "Verifies visible PDF data against schedules and unit conversion; human visual review is separate."
+    },
+    {
+      "id": "template.dxf",
+      "passed": true,
+      "detail": "DXF mm; exactly two closed profile/lap polylines",
+      "category": "template",
+      "scope": "Digital scale and coverage only; printer scaling and physical fit require ruler/scrap verification."
+    },
+    {
+      "id": "template.analytic_area",
+      "passed": true,
+      "detail": "DXF profile and rhombus areas vs independent equations",
+      "category": "template",
+      "scope": "Digital scale and coverage only; printer scaling and physical fit require ruler/scrap verification."
+    },
+    {
+      "id": "template.paper_scale.A4",
+      "passed": true,
+      "detail": "Page dimensions and actual PDF vector 100/50 mm calibration bars checked",
+      "category": "template",
+      "scope": "Digital scale and coverage only; printer scaling and physical fit require ruler/scrap verification."
+    },
+    {
+      "id": "template.coverage.A4",
+      "passed": true,
+      "detail": "Tile union covers profile; overlaps and start coordinates agree",
+      "category": "template",
+      "scope": "Digital scale and coverage only; printer scaling and physical fit require ruler/scrap verification."
+    },
+    {
+      "id": "template.paper_scale.Letter",
+      "passed": true,
+      "detail": "Page dimensions and actual PDF vector 100/50 mm calibration bars checked",
+      "category": "template",
+      "scope": "Digital scale and coverage only; printer scaling and physical fit require ruler/scrap verification."
+    },
+    {
+      "id": "template.coverage.Letter",
+      "passed": true,
+      "detail": "Tile union covers profile; overlaps and start coordinates agree",
+      "category": "template",
+      "scope": "Digital scale and coverage only; printer scaling and physical fit require ruler/scrap verification."
+    }
+  ],
+  "failed": [],
+  "assumptions": [
+    "Physical timber, plywood properties, purchased fittings and wall construction unverified.",
+    "No physical prototype or load/stability/creep tests performed.",
+    "Passing digital checks does not establish safety or a safe working load."
+  ]
+}

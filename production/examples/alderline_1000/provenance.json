@@ -1,0 +1,30 @@
+{
+  "parameters_sha256": "7faa616919d0ede144f8471ac7f81cb7c781d8bdc8f997fc038c5e8d04df0b86",
+  "source_sha256": {
+    "production/woodplan/__init__.py": "9a4a9bda514430e275366ecc3dc7462183f2c3f0f60b1fd10a1cf659fe251afb",
+    "production/woodplan/cad.py": "907a6f33c7ff332d5788cf3029be4b1b4b53a9c4eeb4bc6ce1132e47c1c6cfc6",
+    "production/woodplan/common.py": "5966abbafce051e1050e442fbd2761f6516a82a8d42a60e6f45b223a9271793f",
+    "production/woodplan/export.py": "f4017522c08424b22d994d9f8040def44a09612cddf134e1765e1b1799319b17",
+    "production/woodplan/pdf.py": "f4716ef8781e4a2e81b1b1ea4ad8669496ff77e87a0e77d8ab5c13329dc16f94",
+    "production/woodplan/products/__init__.py": "24b8af37b98acbb09b6c48ebb7e9946a407874338777ee4c6eb0d87dde689df6",
+    "production/woodplan/products/alderline.py": "77999933567788b849af163544182c6eb52cb54e9c441dc6401812e6a89555e9",
+    "production/woodplan/products/alderline_checks.py": "27e78d536e3ce244fef54808d8225c2602cb40d3db599c2349432cfd12366a73",
+    "production/woodplan/products/alderline_drawings.py": "f79b8fb4df0bfcd5f60195e7bc602477447b04917575501ebbefceecbea84cd7",
+    "production/woodplan/products/alderline_geometry.py": "496b06bb5877c8a950009b493e97933286a9a4f7e30a9f769c798ee80ef449da",
+    "production/woodplan/products/alderline_manual.py": "d1013302db7b0646624c6d2b166d545554c8b31e7b9910373adc5bbe49e39dce",
+    "production/woodplan/render.py": "27596a50c71d1301720ceb12db1496cef33112eb49720cf7acd10b3a6e03184e",
+    "production/woodplan/stock.py": "084522efa8d129a1e6d6b20d7bcfd72600cde0ec5374f7cd245a525e63605e0b",
+    "production/woodplan/template_checks.py": "df3d438dbbf660b4297474f38f8b938581e8631d2acd174581932d4c447bc651",
+    "production/woodplan/templates.py": "880e75f853533f4a3ce35f3cec09bba774f87af623809b04ccfe6c194f9d0c72",
+    "production/woodplan/validate.py": "5554f785d6500435fedbea82a84b0b628927244ea585b3ad8039c69165c6fd27",
+    "production/run.py": "2d7fe25aac0f60c1089dc12ca31d489f522ef4a71fab06ca5f08f91f37f16ebc"
+  },
+  "dependencies": {
+    "cadquery": "2.7.0",
+    "reportlab": "4.4.9",
+    "numpy": "2.3.5",
+    "Pillow": "12.3.0",
+    "PyMuPDF": "1.26.6",
+    "ezdxf": "1.4.4"
+  }
+}

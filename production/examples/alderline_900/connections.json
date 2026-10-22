@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "B-L1-F",
+    "targets": [
+      "B-L1",
+      "A-LF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-L1-R",
+    "targets": [
+      "B-L1",
+      "A-LR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-L2-F",
+    "targets": [
+      "B-L2",
+      "A-LF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-L2-R",
+    "targets": [
+      "B-L2",
+      "A-LR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-L3-F",
+    "targets": [
+      "B-L3",
+      "A-LF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-L3-R",
+    "targets": [
+      "B-L3",
+      "A-LR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-L4-F",
+    "targets": [
+      "B-L4",
+      "A-LF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-L4-R",
+    "targets": [
+      "B-L4",
+      "A-LR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "C-L5-F",
+    "targets": [
+      "C-L5",
+      "A-LF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "C-L5-R",
+    "targets": [
+      "C-L5",
+      "A-LR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "G-L1-s1",
+    "targets": [
+      "G-L1",
+      "B-L1"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L1-s2",
+    "targets": [
+      "G-L1",
+      "B-L1"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L1-s3",
+    "targets": [
+      "G-L1",
+      "B-L1"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L2-s1",
+    "targets": [
+      "G-L2",
+      "B-L2"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L2-s2",
+    "targets": [
+      "G-L2",
+      "B-L2"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L2-s3",
+    "targets": [
+      "G-L2",
+      "B-L2"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L3-s1",
+    "targets": [
+      "G-L3",
+      "B-L3"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L3-s2",
+    "targets": [
+      "G-L3",
+      "B-L3"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L3-s3",
+    "targets": [
+      "G-L3",
+      "B-L3"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L4-s1",
+    "targets": [
+      "G-L4",
+      "B-L4"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L4-s2",
+    "targets": [
+      "G-L4",
+      "B-L4"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-L4-s3",
+    "targets": [
+      "G-L4",
+      "B-L4"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "H-L1a-s1",
+    "targets": [
+      "H-L1a",
+      "B-L1"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L1a-s2",
+    "targets": [
+      "H-L1a",
+      "B-L2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L1b-s1",
+    "targets": [
+      "H-L1b",
+      "B-L1"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L1b-s2",
+    "targets": [
+      "H-L1b",
+      "B-L2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L2a-s1",
+    "targets": [
+      "H-L2a",
+      "B-L2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L2a-s2",
+    "targets": [
+      "H-L2a",
+      "B-L3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L2b-s1",
+    "targets": [
+      "H-L2b",
+      "B-L2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L2b-s2",
+    "targets": [
+      "H-L2b",
+      "B-L3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L3a-s1",
+    "targets": [
+      "H-L3a",
+      "B-L3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L3a-s2",
+    "targets": [
+      "H-L3a",
+      "B-L4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L3b-s1",
+    "targets": [
+      "H-L3b",
+      "B-L3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L3b-s2",
+    "targets": [
+      "H-L3b",
+      "B-L4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L4a-s1",
+    "targets": [
+      "H-L4a",
+      "B-L4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L4a-s2",
+    "targets": [
+      "H-L4a",
+      "C-L5"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L4b-s1",
+    "targets": [
+      "H-L4b",
+      "B-L4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-L4b-s2",
+    "targets": [
+      "H-L4b",
+      "C-L5"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "B-R1-F",
+    "targets": [
+      "B-R1",
+      "A-RF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-R1-R",
+    "targets": [
+      "B-R1",
+      "A-RR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-R2-F",
+    "targets": [
+      "B-R2",
+      "A-RF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-R2-R",
+    "targets": [
+      "B-R2",
+      "A-RR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-R3-F",
+    "targets": [
+      "B-R3",
+      "A-RF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-R3-R",
+    "targets": [
+      "B-R3",
+      "A-RR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-R4-F",
+    "targets": [
+      "B-R4",
+      "A-RF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "B-R4-R",
+    "targets": [
+      "B-R4",
+      "A-RR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "C-R5-F",
+    "targets": [
+      "C-R5",
+      "A-RF"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "C-R5-R",
+    "targets": [
+      "C-R5",
+      "A-RR"
+    ],
+    "hardware": {
+      "K1": 2
+    },
+    "step": "side-frames"
+  },
+  {
+    "id": "G-R1-s1",
+    "targets": [
+      "G-R1",
+      "B-R1"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R1-s2",
+    "targets": [
+      "G-R1",
+      "B-R1"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R1-s3",
+    "targets": [
+      "G-R1",
+      "B-R1"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R2-s1",
+    "targets": [
+      "G-R2",
+      "B-R2"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R2-s2",
+    "targets": [
+      "G-R2",
+      "B-R2"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R2-s3",
+    "targets": [
+      "G-R2",
+      "B-R2"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R3-s1",
+    "targets": [
+      "G-R3",
+      "B-R3"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R3-s2",
+    "targets": [
+      "G-R3",
+      "B-R3"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R3-s3",
+    "targets": [
+      "G-R3",
+      "B-R3"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R4-s1",
+    "targets": [
+      "G-R4",
+      "B-R4"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R4-s2",
+    "targets": [
+      "G-R4",
+      "B-R4"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "G-R4-s3",
+    "targets": [
+      "G-R4",
+      "B-R4"
+    ],
+    "hardware": {
+      "K3": 1
+    },
+    "step": "cleats"
+  },
+  {
+    "id": "H-R1a-s1",
+    "targets": [
+      "H-R1a",
+      "B-R1"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R1a-s2",
+    "targets": [
+      "H-R1a",
+      "B-R2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R1b-s1",
+    "targets": [
+      "H-R1b",
+      "B-R1"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R1b-s2",
+    "targets": [
+      "H-R1b",
+      "B-R2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R2a-s1",
+    "targets": [
+      "H-R2a",
+      "B-R2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R2a-s2",
+    "targets": [
+      "H-R2a",
+      "B-R3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R2b-s1",
+    "targets": [
+      "H-R2b",
+      "B-R2"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R2b-s2",
+    "targets": [
+      "H-R2b",
+      "B-R3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R3a-s1",
+    "targets": [
+      "H-R3a",
+      "B-R3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R3a-s2",
+    "targets": [
+      "H-R3a",
+      "B-R4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R3b-s1",
+    "targets": [
+      "H-R3b",
+      "B-R3"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R3b-s2",
+    "targets": [
+      "H-R3b",
+      "B-R4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R4a-s1",
+    "targets": [
+      "H-R4a",
+      "B-R4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R4a-s2",
+    "targets": [
+      "H-R4a",
+      "C-R5"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R4b-s1",
+    "targets": [
+      "H-R4b",
+      "B-R4"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "H-R4b-s2",
+    "targets": [
+      "H-R4b",
+      "C-R5"
+    ],
+    "hardware": {
+      "K5": 1
+    },
+    "step": "x-slats"
+  },
+  {
+    "id": "D-1-L-s1",
+    "targets": [
+      "D-1",
+      "G-L1"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-1-L-s2",
+    "targets": [
+      "D-1",
+      "G-L1"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-1-R-s1",
+    "targets": [
+      "D-1",
+      "G-R1"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-1-R-s2",
+    "targets": [
+      "D-1",
+      "G-R1"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-2-L-s1",
+    "targets": [
+      "D-2",
+      "G-L2"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-2-L-s2",
+    "targets": [
+      "D-2",
+      "G-L2"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-2-R-s1",
+    "targets": [
+      "D-2",
+      "G-R2"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-2-R-s2",
+    "targets": [
+      "D-2",
+      "G-R2"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-3-L-s1",
+    "targets": [
+      "D-3",
+      "G-L3"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-3-L-s2",
+    "targets": [
+      "D-3",
+      "G-L3"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-3-R-s1",
+    "targets": [
+      "D-3",
+      "G-R3"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-3-R-s2",
+    "targets": [
+      "D-3",
+      "G-R3"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-4-L-s1",
+    "targets": [
+      "D-4",
+      "G-L4"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-4-L-s2",
+    "targets": [
+      "D-4",
+      "G-L4"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-4-R-s1",
+    "targets": [
+      "D-4",
+      "G-R4"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "D-4-R-s2",
+    "targets": [
+      "D-4",
+      "G-R4"
+    ],
+    "hardware": {
+      "K4": 1
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "F-F-L",
+    "targets": [
+      "F-F",
+      "A-LF"
+    ],
+    "hardware": {
+      "K2": 2
+    },
+    "step": "join-frame"
+  },
+  {
+    "id": "F-F-R",
+    "targets": [
+      "F-F",
+      "A-RF"
+    ],
+    "hardware": {
+      "K2": 2
+    },
+    "step": "join-frame"
+  },
+  {
+    "id": "F-R-L",
+    "targets": [
+      "F-R",
+      "A-LR"
+    ],
+    "hardware": {
+      "K2": 2
+    },
+    "step": "join-frame"
+  },
+  {
+    "id": "F-R-R",
+    "targets": [
+      "F-R",
+      "A-RR"
+    ],
+    "hardware": {
+      "K2": 2
+    },
+    "step": "join-frame"
+  },
+  {
+    "id": "J-1-end1",
+    "targets": [
+      "J-1",
+      "A-LR"
+    ],
+    "hardware": {
+      "K6": 1
+    },
+    "step": "back-restraints"
+  },
+  {
+    "id": "J-1-end2",
+    "targets": [
+      "J-1",
+      "A-RR"
+    ],
+    "hardware": {
+      "K6": 1
+    },
+    "step": "back-restraints"
+  },
+  {
+    "id": "J-2-end1",
+    "targets": [
+      "J-2",
+      "A-RR"
+    ],
+    "hardware": {
+      "K6": 1,
+      "K7": 1
+    },
+    "step": "back-restraints"
+  },
+  {
+    "id": "J-2-end2",
+    "targets": [
+      "J-2",
+      "A-LR"
+    ],
+    "hardware": {
+      "K6": 1,
+      "K7": 1
+    },
+    "step": "back-restraints"
+  },
+  {
+    "id": "angle-F1",
+    "targets": [
+      "F-F",
+      "E-1"
+    ],
+    "hardware": {
+      "K8": 1,
+      "K9": 2
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "angle-F2",
+    "targets": [
+      "F-F",
+      "E-1"
+    ],
+    "hardware": {
+      "K8": 1,
+      "K9": 2
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "angle-R1",
+    "targets": [
+      "F-R",
+      "E-1"
+    ],
+    "hardware": {
+      "K8": 1,
+      "K9": 2
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "angle-R2",
+    "targets": [
+      "F-R",
+      "E-1"
+    ],
+    "hardware": {
+      "K8": 1,
+      "K9": 2
+    },
+    "step": "shelves-top"
+  },
+  {
+    "id": "restraint-L",
+    "targets": [
+      "A-LR"
+    ],
+    "hardware": {
+      "K10": 1
+    },
+    "step": "back-restraints"
+  },
+  {
+    "id": "restraint-R",
+    "targets": [
+      "A-RR"
+    ],
+    "hardware": {
+      "K10": 1
+    },
+    "step": "back-restraints"
+  },
+  {
+    "id": "pad-A-LF",
+    "targets": [
+      "A-LF"
+    ],
+    "hardware": {
+      "K11": 1
+    },
+    "step": "finish"
+  },
+  {
+    "id": "pad-A-LR",
+    "targets": [
+      "A-LR"
+    ],
+    "hardware": {
+      "K11": 1
+    },
+    "step": "finish"
+  },
+  {
+    "id": "pad-A-RF",
+    "targets": [
+      "A-RF"
+    ],
+    "hardware": {
+      "K11": 1
+    },
+    "step": "finish"
+  },
+  {
+    "id": "pad-A-RR",
+    "targets": [
+      "A-RR"
+    ],
+    "hardware": {
+      "K11": 1
+    },
+    "step": "finish"
+  }
+]

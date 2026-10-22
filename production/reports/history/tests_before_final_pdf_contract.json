@@ -1,0 +1,149 @@
+{
+  "passed": true,
+  "tests_run": 35,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "tests": [
+    {
+      "id": "test_production.ProductionTests.test_01_p1_files_unchanged",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_02_original_run_all_checks_pass",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_03_original_cut_list_regression",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_04_original_step_regression",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_05_width_1000_regression",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_06_two_deterministic_validation_runs",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_07_unit_conversion_exact_definition",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_08_stock_layout_deterministic_and_one_sheet",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_09_bad_hardware_csv_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_10_missing_connection_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_11_duplicate_part_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_12_missing_component_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_13_bad_cut_dimension_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_14_invalid_units_rejected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_15_collapsed_geometry_rejected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_16_nonfinite_geometry_rejected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_17_broken_assembly_reference_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_18_wrong_purchase_quantity_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_19_missing_lumber_kerf_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_20_overlapping_plywood_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_21_overlength_screw_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_22_wrong_template_scale_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_23_wrong_dxf_units_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_24_wrong_pdf_hardware_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_25_wrong_pdf_conversion_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_26_missing_step_file_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_27_actual_cad_collision_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_28_pdf_build_deterministic",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_29_no_internal_report_in_customer_manual",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_30_segment_distance_independent_examples",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_31_all_final_pdf_qa_pass",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_32_wrong_dowel_position_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_33_missing_template_tile_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_34_duplicate_pdf_hardware_row_detected",
+      "status": "passed"
+    },
+    {
+      "id": "test_production.ProductionTests.test_35_provenance_matches_executed_sources",
+      "status": "passed"
+    }
+  ]
+}

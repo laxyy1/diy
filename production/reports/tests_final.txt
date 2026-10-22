@@ -1,0 +1,43 @@
+test_01_p1_files_unchanged (test_production.ProductionTests.test_01_p1_files_unchanged) ... ok
+test_02_original_run_all_checks_pass (test_production.ProductionTests.test_02_original_run_all_checks_pass) ... ok
+test_03_original_cut_list_regression (test_production.ProductionTests.test_03_original_cut_list_regression) ... ok
+test_04_original_step_regression (test_production.ProductionTests.test_04_original_step_regression) ... ok
+test_05_width_1000_regression (test_production.ProductionTests.test_05_width_1000_regression) ... ok
+test_06_two_deterministic_validation_runs (test_production.ProductionTests.test_06_two_deterministic_validation_runs) ... ok
+test_07_unit_conversion_exact_definition (test_production.ProductionTests.test_07_unit_conversion_exact_definition) ... ok
+test_08_stock_layout_deterministic_and_one_sheet (test_production.ProductionTests.test_08_stock_layout_deterministic_and_one_sheet) ... ok
+test_09_bad_hardware_csv_detected (test_production.ProductionTests.test_09_bad_hardware_csv_detected) ... ok
+test_10_missing_connection_detected (test_production.ProductionTests.test_10_missing_connection_detected) ... ok
+test_11_duplicate_part_detected (test_production.ProductionTests.test_11_duplicate_part_detected) ... ok
+test_12_missing_component_detected (test_production.ProductionTests.test_12_missing_component_detected) ... ok
+test_13_bad_cut_dimension_detected (test_production.ProductionTests.test_13_bad_cut_dimension_detected) ... ok
+test_14_invalid_units_rejected (test_production.ProductionTests.test_14_invalid_units_rejected) ... ok
+test_15_collapsed_geometry_rejected (test_production.ProductionTests.test_15_collapsed_geometry_rejected) ... ok
+test_16_nonfinite_geometry_rejected (test_production.ProductionTests.test_16_nonfinite_geometry_rejected) ... ok
+test_17_broken_assembly_reference_detected (test_production.ProductionTests.test_17_broken_assembly_reference_detected) ... ok
+test_18_wrong_purchase_quantity_detected (test_production.ProductionTests.test_18_wrong_purchase_quantity_detected) ... ok
+test_19_missing_lumber_kerf_detected (test_production.ProductionTests.test_19_missing_lumber_kerf_detected) ... ok
+test_20_overlapping_plywood_detected (test_production.ProductionTests.test_20_overlapping_plywood_detected) ... ok
+test_21_overlength_screw_detected (test_production.ProductionTests.test_21_overlength_screw_detected) ... ok
+test_22_wrong_template_scale_detected (test_production.ProductionTests.test_22_wrong_template_scale_detected) ... ok
+test_23_wrong_dxf_units_detected (test_production.ProductionTests.test_23_wrong_dxf_units_detected) ... ok
+test_24_wrong_pdf_hardware_detected (test_production.ProductionTests.test_24_wrong_pdf_hardware_detected) ... ok
+test_25_wrong_pdf_conversion_detected (test_production.ProductionTests.test_25_wrong_pdf_conversion_detected) ... ok
+test_26_missing_step_file_detected (test_production.ProductionTests.test_26_missing_step_file_detected) ... ok
+test_27_actual_cad_collision_detected (test_production.ProductionTests.test_27_actual_cad_collision_detected) ... ok
+test_28_pdf_build_deterministic (test_production.ProductionTests.test_28_pdf_build_deterministic) ... ok
+test_29_no_internal_report_in_customer_manual (test_production.ProductionTests.test_29_no_internal_report_in_customer_manual) ... ok
+test_30_segment_distance_independent_examples (test_production.ProductionTests.test_30_segment_distance_independent_examples) ... ok
+test_31_all_final_pdf_qa_pass (test_production.ProductionTests.test_31_all_final_pdf_qa_pass) ... ok
+test_32_wrong_dowel_position_detected (test_production.ProductionTests.test_32_wrong_dowel_position_detected) ... ok
+test_33_missing_template_tile_detected (test_production.ProductionTests.test_33_missing_template_tile_detected) ... ok
+test_34_duplicate_pdf_hardware_row_detected (test_production.ProductionTests.test_34_duplicate_pdf_hardware_row_detected) ... ok
+test_35_provenance_matches_executed_sources (test_production.ProductionTests.test_35_provenance_matches_executed_sources) ... ok
+test_36_unknown_pdf_part_reference_detected (test_production.ProductionTests.test_36_unknown_pdf_part_reference_detected) ... ok
+test_37_wrong_pdf_cut_dimension_detected (test_production.ProductionTests.test_37_wrong_pdf_cut_dimension_detected) ... ok
+test_38_configured_minimum_screw_spacing_enforced (test_production.ProductionTests.test_38_configured_minimum_screw_spacing_enforced) ... ok
+
+----------------------------------------------------------------------
+Ran 38 tests in 10.949s
+
+OK

@@ -1,0 +1,50 @@
+{
+  "reviewer": "Codex assistant",
+  "documents": [
+    {
+      "example": 900,
+      "document": "manual",
+      "sha256": "a3cba675c9a2083fbb608f5c08a45120b5df269c493d299892bbc42b2108187d",
+      "pages": 18,
+      "status": "assistant-reviewed"
+    },
+    {
+      "example": 900,
+      "document": "A4",
+      "sha256": "4188a2cd2ba04a1c7f63c135dd4525f656c586525d009c4140a7fa44d932a96b",
+      "pages": 3,
+      "status": "assistant-reviewed"
+    },
+    {
+      "example": 900,
+      "document": "Letter",
+      "sha256": "205f234bc3890b8ecdabb7fdaf3ace196c8480a154bf6c7394d4a4bf0e441764",
+      "pages": 3,
+      "status": "assistant-reviewed"
+    },
+    {
+      "example": 1000,
+      "document": "manual",
+      "sha256": "a9bee8a83352538402b6bf7c2e838e5246c8c62b1205cb54ba514bb29e3509a7",
+      "pages": 18,
+      "status": "assistant-reviewed"
+    },
+    {
+      "example": 1000,
+      "document": "A4",
+      "sha256": "4188a2cd2ba04a1c7f63c135dd4525f656c586525d009c4140a7fa44d932a96b",
+      "pages": 3,
+      "status": "assistant-reviewed"
+    },
+    {
+      "example": 1000,
+      "document": "Letter",
+      "sha256": "205f234bc3890b8ecdabb7fdaf3ace196c8480a154bf6c7394d4a4bf0e441764",
+      "pages": 3,
+      "status": "assistant-reviewed"
+    }
+  ],
+  "physical_print_checks": "not performed",
+  "independent_human_review": "not performed",
+  "unresolved_visual_findings": []
+}

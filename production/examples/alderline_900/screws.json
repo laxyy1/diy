@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "G-L1-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-L1",
+      "B-L1"
+    ],
+    "start": [
+      75.0,
+      110.0,
+      145.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L1-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-L1",
+      "B-L1"
+    ],
+    "start": [
+      75.0,
+      175.0,
+      145.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L1-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-L1",
+      "B-L1"
+    ],
+    "start": [
+      75.0,
+      240.0,
+      145.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L2-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-L2",
+      "B-L2"
+    ],
+    "start": [
+      75.0,
+      110.0,
+      545.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L2-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-L2",
+      "B-L2"
+    ],
+    "start": [
+      75.0,
+      175.0,
+      545.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L2-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-L2",
+      "B-L2"
+    ],
+    "start": [
+      75.0,
+      240.0,
+      545.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L3-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-L3",
+      "B-L3"
+    ],
+    "start": [
+      75.0,
+      110.0,
+      945.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L3-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-L3",
+      "B-L3"
+    ],
+    "start": [
+      75.0,
+      175.0,
+      945.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L3-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-L3",
+      "B-L3"
+    ],
+    "start": [
+      75.0,
+      240.0,
+      945.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L4-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-L4",
+      "B-L4"
+    ],
+    "start": [
+      75.0,
+      110.0,
+      1345.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L4-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-L4",
+      "B-L4"
+    ],
+    "start": [
+      75.0,
+      175.0,
+      1345.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-L4-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-L4",
+      "B-L4"
+    ],
+    "start": [
+      75.0,
+      240.0,
+      1345.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "H-L1a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L1a",
+      "B-L1"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469935,
+      145.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L1a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L1a",
+      "B-L2"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      505.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L1b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L1b",
+      "B-L1"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      145.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L1b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L1b",
+      "B-L2"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469936,
+      505.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L2a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L2a",
+      "B-L2"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469935,
+      545.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L2a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L2a",
+      "B-L3"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      905.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L2b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L2b",
+      "B-L2"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      545.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L2b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L2b",
+      "B-L3"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469936,
+      905.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L3a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L3a",
+      "B-L3"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469935,
+      945.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L3a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L3a",
+      "B-L4"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      1305.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L3b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L3b",
+      "B-L3"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      945.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L3b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L3b",
+      "B-L4"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469936,
+      1305.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L4a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L4a",
+      "B-L4"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469935,
+      1345.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L4a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L4a",
+      "C-L5"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      1705.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L4b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-L4b",
+      "B-L4"
+    ],
+    "start": [
+      -18.0,
+      265.37621821530064,
+      1345.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-L4b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-L4b",
+      "C-L5"
+    ],
+    "start": [
+      -18.0,
+      84.62378178469936,
+      1705.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "G-R1-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-R1",
+      "B-R1"
+    ],
+    "start": [
+      825.0,
+      110.0,
+      145.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R1-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-R1",
+      "B-R1"
+    ],
+    "start": [
+      825.0,
+      175.0,
+      145.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R1-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-R1",
+      "B-R1"
+    ],
+    "start": [
+      825.0,
+      240.0,
+      145.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R2-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-R2",
+      "B-R2"
+    ],
+    "start": [
+      825.0,
+      110.0,
+      545.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R2-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-R2",
+      "B-R2"
+    ],
+    "start": [
+      825.0,
+      175.0,
+      545.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R2-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-R2",
+      "B-R2"
+    ],
+    "start": [
+      825.0,
+      240.0,
+      545.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R3-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-R3",
+      "B-R3"
+    ],
+    "start": [
+      825.0,
+      110.0,
+      945.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R3-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-R3",
+      "B-R3"
+    ],
+    "start": [
+      825.0,
+      175.0,
+      945.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R3-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-R3",
+      "B-R3"
+    ],
+    "start": [
+      825.0,
+      240.0,
+      945.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R4-s1",
+    "hardware": "K3",
+    "targets": [
+      "G-R4",
+      "B-R4"
+    ],
+    "start": [
+      825.0,
+      110.0,
+      1345.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R4-s2",
+    "hardware": "K3",
+    "targets": [
+      "G-R4",
+      "B-R4"
+    ],
+    "start": [
+      825.0,
+      175.0,
+      1345.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "G-R4-s3",
+    "hardware": "K3",
+    "targets": [
+      "G-R4",
+      "B-R4"
+    ],
+    "start": [
+      825.0,
+      240.0,
+      1345.0
+    ],
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "through": 30.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 60.0
+  },
+  {
+    "id": "H-R1a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R1a",
+      "B-R1"
+    ],
+    "start": [
+      918.0,
+      84.62378178469935,
+      145.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R1a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R1a",
+      "B-R2"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      505.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R1b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R1b",
+      "B-R1"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      145.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R1b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R1b",
+      "B-R2"
+    ],
+    "start": [
+      918.0,
+      84.62378178469936,
+      505.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R2a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R2a",
+      "B-R2"
+    ],
+    "start": [
+      918.0,
+      84.62378178469935,
+      545.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R2a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R2a",
+      "B-R3"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      905.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R2b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R2b",
+      "B-R2"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      545.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R2b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R2b",
+      "B-R3"
+    ],
+    "start": [
+      918.0,
+      84.62378178469936,
+      905.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R3a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R3a",
+      "B-R3"
+    ],
+    "start": [
+      918.0,
+      84.62378178469935,
+      945.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R3a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R3a",
+      "B-R4"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      1305.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R3b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R3b",
+      "B-R3"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      945.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R3b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R3b",
+      "B-R4"
+    ],
+    "start": [
+      918.0,
+      84.62378178469936,
+      1305.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R4a-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R4a",
+      "B-R4"
+    ],
+    "start": [
+      918.0,
+      84.62378178469935,
+      1345.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R4a-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R4a",
+      "C-R5"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      1705.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R4b-s1",
+    "hardware": "K5",
+    "targets": [
+      "H-R4b",
+      "B-R4"
+    ],
+    "start": [
+      918.0,
+      265.37621821530064,
+      1345.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "H-R4b-s2",
+    "hardware": "K5",
+    "targets": [
+      "H-R4b",
+      "C-R5"
+    ],
+    "start": [
+      918.0,
+      84.62378178469936,
+      1705.0
+    ],
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "through": 18.0,
+    "receiver": 45.0,
+    "diameter": 4.0,
+    "length": 45.0
+  },
+  {
+    "id": "D-1-L-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-1",
+      "G-L1"
+    ],
+    "start": [
+      60.0,
+      90.0,
+      178.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-1-L-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-1",
+      "G-L1"
+    ],
+    "start": [
+      60.0,
+      260.0,
+      178.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-1-R-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-1",
+      "G-R1"
+    ],
+    "start": [
+      840.0,
+      90.0,
+      178.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-1-R-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-1",
+      "G-R1"
+    ],
+    "start": [
+      840.0,
+      260.0,
+      178.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-2-L-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-2",
+      "G-L2"
+    ],
+    "start": [
+      60.0,
+      90.0,
+      578.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-2-L-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-2",
+      "G-L2"
+    ],
+    "start": [
+      60.0,
+      260.0,
+      578.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-2-R-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-2",
+      "G-R2"
+    ],
+    "start": [
+      840.0,
+      90.0,
+      578.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-2-R-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-2",
+      "G-R2"
+    ],
+    "start": [
+      840.0,
+      260.0,
+      578.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-3-L-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-3",
+      "G-L3"
+    ],
+    "start": [
+      60.0,
+      90.0,
+      978.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-3-L-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-3",
+      "G-L3"
+    ],
+    "start": [
+      60.0,
+      260.0,
+      978.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-3-R-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-3",
+      "G-R3"
+    ],
+    "start": [
+      840.0,
+      90.0,
+      978.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-3-R-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-3",
+      "G-R3"
+    ],
+    "start": [
+      840.0,
+      260.0,
+      978.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-4-L-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-4",
+      "G-L4"
+    ],
+    "start": [
+      60.0,
+      90.0,
+      1378.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-4-L-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-4",
+      "G-L4"
+    ],
+    "start": [
+      60.0,
+      260.0,
+      1378.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-4-R-s1",
+    "hardware": "K4",
+    "targets": [
+      "D-4",
+      "G-R4"
+    ],
+    "start": [
+      840.0,
+      90.0,
+      1378.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "D-4-R-s2",
+    "hardware": "K4",
+    "targets": [
+      "D-4",
+      "G-R4"
+    ],
+    "start": [
+      840.0,
+      260.0,
+      1378.0
+    ],
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "through": 18.0,
+    "receiver": 30.0,
+    "diameter": 4.0,
+    "length": 40.0
+  },
+  {
+    "id": "J-1-end1",
+    "hardware": "K6",
+    "targets": [
+      "J-1",
+      "A-LR"
+    ],
+    "start": [
+      22.5,
+      351.0,
+      125.0
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "through": 1.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 35.0
+  },
+  {
+    "id": "J-1-end2",
+    "hardware": "K6",
+    "targets": [
+      "J-1",
+      "A-RR"
+    ],
+    "start": [
+      877.5,
+      351.0,
+      1725.0
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "through": 1.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 35.0
+  },
+  {
+    "id": "J-2-end1",
+    "hardware": "K6",
+    "targets": [
+      "J-2",
+      "A-RR"
+    ],
+    "start": [
+      877.5,
+      352.0,
+      125.0
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "through": 2.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 35.0
+  },
+  {
+    "id": "J-2-end2",
+    "hardware": "K6",
+    "targets": [
+      "J-2",
+      "A-LR"
+    ],
+    "start": [
+      22.5,
+      352.0,
+      1725.0
+    ],
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "through": 2.0,
+    "receiver": 45.0,
+    "diameter": 5.0,
+    "length": 35.0
+  }
+]

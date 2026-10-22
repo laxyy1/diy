@@ -1,0 +1,67 @@
+{
+  "manual": {
+    "passed": true,
+    "pages": 18,
+    "page_bounds_issues": [],
+    "text_overlap_candidates": [],
+    "pdf_sha256": "a9bee8a83352538402b6bf7c2e838e5246c8c62b1205cb54ba514bb29e3509a7",
+    "visual_review_status": "assistant-reviewed",
+    "limitations": "Automated bounds/collisions cannot establish drawing legibility or technical correctness; inspect rendered pages.",
+    "reviewer": "Codex assistant visual inspection",
+    "reviewed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "human_commercial_review": "not performed"
+  },
+  "A4": {
+    "passed": true,
+    "pages": 3,
+    "page_bounds_issues": [],
+    "text_overlap_candidates": [],
+    "pdf_sha256": "4188a2cd2ba04a1c7f63c135dd4525f656c586525d009c4140a7fa44d932a96b",
+    "visual_review_status": "assistant-reviewed",
+    "limitations": "Automated bounds/collisions cannot establish drawing legibility or technical correctness; inspect rendered pages.",
+    "reviewer": "Codex assistant visual inspection",
+    "reviewed_pages": [
+      1,
+      2,
+      3
+    ],
+    "human_commercial_review": "not performed",
+    "review_basis": "Byte-identical template to reviewed 900 mm example; each file was also rendered separately."
+  },
+  "Letter": {
+    "passed": true,
+    "pages": 3,
+    "page_bounds_issues": [],
+    "text_overlap_candidates": [],
+    "pdf_sha256": "205f234bc3890b8ecdabb7fdaf3ace196c8480a154bf6c7394d4a4bf0e441764",
+    "visual_review_status": "assistant-reviewed",
+    "limitations": "Automated bounds/collisions cannot establish drawing legibility or technical correctness; inspect rendered pages.",
+    "reviewer": "Codex assistant visual inspection",
+    "reviewed_pages": [
+      1,
+      2,
+      3
+    ],
+    "human_commercial_review": "not performed",
+    "review_basis": "Byte-identical template to reviewed 900 mm example; each file was also rendered separately."
+  }
+}

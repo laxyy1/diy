@@ -1,0 +1,152 @@
+{
+  "product": "DIYWOODPLANNER / Alderline X4",
+  "revision": "P2 development / prototype review",
+  "units": "mm",
+  "frame_width": 900.0,
+  "frame_depth": 350.0,
+  "height": 1800.0,
+  "post": 45.0,
+  "panel_thickness": 18.0,
+  "top_overhang": 10.0,
+  "rail_thickness": 45.0,
+  "rail_height": 70.0,
+  "rail_bottoms": [
+    90.0,
+    490.0,
+    890.0,
+    1290.0
+  ],
+  "top_rail_bottom": 1690.0,
+  "shelf_side_clearance": 0.5,
+  "shelf_end_setback": 1.0,
+  "cleat": 30.0,
+  "brace_thickness": 18.0,
+  "brace_width": 35.0,
+  "brace_y_min": 55.0,
+  "brace_y_max": 295.0,
+  "brace_z_stations": [
+    125.0,
+    525.0,
+    925.0,
+    1325.0,
+    1725.0
+  ],
+  "brace_rough_blank_length": 490.0,
+  "brace_end_screw_z_offset": 20.0,
+  "brace_dowel_diameter": 8.0,
+  "rail_dowel_embed": 25.0,
+  "rail_dowel_z_offsets": [
+    20.0,
+    50.0
+  ],
+  "top_dowel_z_offsets": [
+    20.0,
+    72.0
+  ],
+  "apron_dowel_diameter": 6.0,
+  "apron_dowel_embed": 20.0,
+  "cleat_screw_y": [
+    110.0,
+    175.0,
+    240.0
+  ],
+  "shelf_screw_y": [
+    90.0,
+    260.0
+  ],
+  "strap_width": 20.0,
+  "strap_thickness": 1.0,
+  "strap_end_allowance": 25.0,
+  "strap_bottom_z": 125.0,
+  "strap_top_z": 1725.0,
+  "restraint_z": 1750.0,
+  "engineering": {
+    "assumed_E_MPa": 6000.0,
+    "illustrative_mass_kg_per_shelf": 20.0,
+    "assumed_plywood_density_kg_m3": 650.0,
+    "gravity_m_s2": 9.81
+  },
+  "product_type": "alderline_x4",
+  "stock": {
+    "board_length": 2400.0,
+    "sheet_length": 2440.0,
+    "sheet_width": 1220.0,
+    "kerf": 3.0,
+    "end_trim": 10.0,
+    "nest_gap": 20.0
+  },
+  "hardware": {
+    "K3": {
+      "diameter": 5.0,
+      "length": 60.0
+    },
+    "K4": {
+      "diameter": 4.0,
+      "length": 40.0
+    },
+    "K5": {
+      "diameter": 4.0,
+      "length": 45.0
+    },
+    "K6": {
+      "diameter": 5.0,
+      "length": 35.0
+    },
+    "K9": {
+      "diameter": 4.0,
+      "length": 16.0
+    },
+    "angle_thickness": 2.0,
+    "angle_wing": 25.0,
+    "angle_width": 20.0,
+    "angle_hole_offset": 12.0,
+    "strap_hole_diameter": 5.5,
+    "washer_thickness": 1.0
+  },
+  "design_rules": {
+    "min_screw_rail_edge": 15.0,
+    "min_axis_clearance": 12.0,
+    "min_shelf_bearing": 20.0,
+    "bore_bottom_clearance": 1.0,
+    "blank_allowance": 10.0
+  },
+  "post_length": 1782.0,
+  "opening": 810.0,
+  "rail_length": 260.0,
+  "top_rail_height": 92.0,
+  "shelf_width": 809.0,
+  "shelf_depth": 348.0,
+  "top_width": 920.0,
+  "top_depth": 370.0,
+  "brace_height": 400.0,
+  "brace_run": 200.8360404784459,
+  "brace_end_cut": 39.163959521554105,
+  "brace_long_edge": 447.5881088177611,
+  "brace_angle": 63.339225758579104,
+  "brace_miter": 26.660774241420896,
+  "brace_blank_min": 465.16126235962514,
+  "lap_along_edge": 43.64087873448448,
+  "strap_hole_pitch": 1814.1182431142684,
+  "side_overall_width": 936.0,
+  "strap_cut_length": 1864.1182431142684,
+  "shelf_undersides": [
+    160.0,
+    560.0,
+    960.0,
+    1360.0
+  ],
+  "shelf_tops": [
+    178.0,
+    578.0,
+    978.0,
+    1378.0
+  ],
+  "shelf_screw_x": [
+    60.0,
+    840.0
+  ],
+  "angle_x": [
+    247.5,
+    652.5
+  ]
+}

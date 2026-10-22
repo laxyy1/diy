@@ -1,0 +1,278 @@
+{
+  "deliverables/DIYWOODPLANNER_Alderline_X4/COMMERCIAL_REVIEW_CHECKLIST.md": {
+    "bytes": 1261,
+    "sha256": "f17518850d81a802270d47458c51299ffaab868cd970d028ab80f69232ab90ff"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/DESIGN_NOTES.md": {
+    "bytes": 2518,
+    "sha256": "30a2ecb781e4e83a8ca49a271de1d6195946f6ebff180ba369c43c8a42fe09f7"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/README.md": {
+    "bytes": 4560,
+    "sha256": "8d5c8c9a89eb9c74b515cedd7116a73e916a4892e7080502460bcff76a70a1be"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/SHA256SUMS.json": {
+    "bytes": 6597,
+    "sha256": "b38a39798b42740e0e2ee2ec393f4e0a33ba65598e499a7f369e393a20ccde34"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/DIYWOODPLANNER_Alderline_X4.pdf": {
+    "bytes": 390789,
+    "sha256": "0e5e56f14e1f4b054642f4c7990002bc3bce9a268dddd2d4a32daf86eec03016"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/VALIDATION_REPORT.md": {
+    "bytes": 5936,
+    "sha256": "fdcc70c519b4f62bbef72604efeaca3865e3ce9c60b6f01a106b9700b8d5cc7f"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/Alderline_X4.step": {
+    "bytes": 1547929,
+    "sha256": "4a2540a69d23fad14c20f45ca4b9a89de7780bb5343b19e8eed614db5a614508"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/assembly_mesh.json": {
+    "bytes": 1118425,
+    "sha256": "63a4e1e2b850a7bef6ccf2ebdb42429af0b622497398e3083bb146eb178552e3"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_A.step": {
+    "bytes": 69809,
+    "sha256": "fa22e15d4827fdc5c075f2e50823147778d4ebd8d4cdfabb24cf6bde0a13e3ab"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_B.step": {
+    "bytes": 31999,
+    "sha256": "e1f56e78e37ca3f11e9850d7c0d56a1bb61cd247c9c612c16d21cfc1f3d77519"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_C.step": {
+    "bytes": 32261,
+    "sha256": "fd6ed961cfb755b895d44aced46cc2c19d97e3015ac0b28ebf5a3eeb73f06035"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_D.step": {
+    "bytes": 15528,
+    "sha256": "ff904f3a2d33f2cf241c828925a1c2858d479c6b6e5f738691c03d8fee3b4bd3"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_E.step": {
+    "bytes": 15665,
+    "sha256": "51b88c094428a196a44e8a41981108d8ddc182639159b3ac9bfacbd8e66e694a"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_F.step": {
+    "bytes": 32191,
+    "sha256": "476974f18fcc7f7fe6faa023eb5843144344e33a8e83befbb5af3efb5f1959d1"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_G.step": {
+    "bytes": 15506,
+    "sha256": "dac59cfa9fd072d3cf62881c2ad340d70a5240c07a4c9801e188597e289c0306"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_H.step": {
+    "bytes": 31901,
+    "sha256": "80377092bb7dc7ac3db62ecbe95ec11cd4cb5b2a56407450cd57dcaafc8bc891"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_H_a.step": {
+    "bytes": 31903,
+    "sha256": "fac3c03b8cbe3bc7088ce53167594e94ec9ae8b46d59fe0ff698428ebb5c669f"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cad/part_H_b.step": {
+    "bytes": 31916,
+    "sha256": "0869cc22b99f56537f18d16a832661fccfa6fe54fe979bf03c9dc55128e5c727"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cut_list.csv": {
+    "bytes": 839,
+    "sha256": "277f1fbecb4673c9d36a2105aaff4643655a38c255c5c9eeb967ca9cc028c4ac"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/cut_list.json": {
+    "bytes": 1847,
+    "sha256": "41a36f2c2b241a5a6c2aec73f64e35f5d87823cfb5f807f99e148697a1923206"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/derived_dimensions.json": {
+    "bytes": 1960,
+    "sha256": "ba1610e70dc0184465c6a0588a47e1456359e603226a995641f527e658d6633f"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/H_brace_1to1.dxf": {
+    "bytes": 16538,
+    "sha256": "d848f81738ceb1bd12ca2c066b480642e056b340f4cb2938c24009eda810f42f"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/H_brace_1to1.svg": {
+    "bytes": 775,
+    "sha256": "eb6b6be9f1c93be8817f490cd62294be094e8b9db9bdeccdd50494f7c1b3928f"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/H_brace_pattern.json": {
+    "bytes": 613,
+    "sha256": "3700ac4f5e302150a5875720a7728812abdbf24682ec975afa27632d7a5a7e5a"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/brace_fabrication.svg": {
+    "bytes": 215919,
+    "sha256": "8248592f9b108ec33249846482c4b6b89da0862a861927f897d59a46c7dfe554"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/dimensioned_elevations.svg": {
+    "bytes": 139678,
+    "sha256": "c247311e12f97f6518d09aab263b1bf1cb025b9eadf19f6e362acb4a33f4b319"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/exploded.png": {
+    "bytes": 54260,
+    "sha256": "32d72ab5a51073e2a04bfea2334db7716ab2b12e4a048ab0574c5ecd29a4221e"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/exploded_assembly.svg": {
+    "bytes": 231085,
+    "sha256": "5ea411a463bfc5ab5d5f04849be8b8be572b31db532a8e786a10a8d0bcb1fc1c"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/frame_join.png": {
+    "bytes": 18888,
+    "sha256": "42929bb742f8650b2e743af3382ccd50c71a051bb0d31bb6d314589d66806e87"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/front.svg": {
+    "bytes": 6629,
+    "sha256": "a685f58dc0dc22845006c8839a43b825f340d1cf97ac63050394e29c3e01d520"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/hero.png": {
+    "bytes": 50183,
+    "sha256": "596e54faeccb9b3c4da4765ff8cf4ef23ffab8c455fd259780f6591c747cdc1e"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/isometric.svg": {
+    "bytes": 33631,
+    "sha256": "d44e936d17058c0f7ec5b67a7b0ee334b87834f1fc9bb4dc63f637c8db0da77b"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/plywood_nesting.svg": {
+    "bytes": 1673,
+    "sha256": "2f5ec0915613c4187edccbbcf9b3e23e31ee34bd0e8838e46d17fcc298fd5c37"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/post_boring_map.svg": {
+    "bytes": 203821,
+    "sha256": "7d2833cc569cc7326f1e9d89dc714fbd3adc18dff5e9c3c90fb5590da8d341a4"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/rear.png": {
+    "bytes": 52603,
+    "sha256": "f62ac5d271cfcc029a5ad3d93ed91265ea55cf8d716013b7d9e23245c64a20b9"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/rear.svg": {
+    "bytes": 24810,
+    "sha256": "45071761b3d3dfcaf60ad19527ae0233bdd140c16febe08b751d0580aa9cc780"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/shelf_top.png": {
+    "bytes": 48526,
+    "sha256": "0ca6effcc26732bafed661e62f3f3a9323321b24b15ec867f0b0bd55656e3931"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/side.svg": {
+    "bytes": 7949,
+    "sha256": "ff9d87a988f195c28a565ed9cd507bd5ef83e0d44ce3d316c50258c6b0af9f10"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/side_complete.png": {
+    "bytes": 19552,
+    "sha256": "4e581ae8a084cef584cafb5904e575182b827311cd911a49095c5b8430374814"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/drawings/side_frame.png": {
+    "bytes": 10217,
+    "sha256": "4c1b8040fd41a43ea12a781e795e03069f09a0e28cc0d18fd3a55f7734385971"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/hardware.csv": {
+    "bytes": 926,
+    "sha256": "5c693c7a8676c501d4c500a772adcfff9bebe71ef85cd6161c7e90945aadc85d"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/contact_sheet.png": {
+    "bytes": 793528,
+    "sha256": "9be7ccb9d60cc8b594724f72406534fe04cf85883f6f83f3ef7b995fa3f3334a"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/layout_bounds.json": {
+    "bytes": 66,
+    "sha256": "ad5e1cebdb7fc9a09f86ae2ca56825a8f43f491653110855f30be68aea04bd31"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_01.png": {
+    "bytes": 139284,
+    "sha256": "d83f19c202bc1700ca889b8794d49c8a5f08ea898931cce6072af1788b45a429"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_02.png": {
+    "bytes": 91319,
+    "sha256": "a4c5d1523c28aae624a4343821917622275eca04962a1aaaf5f9ffd9db31368f"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_03.png": {
+    "bytes": 107085,
+    "sha256": "dd83d0a20380d7b3118faed9798ed21a6e8117d768ba044be89112d8e9447a40"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_04.png": {
+    "bytes": 113579,
+    "sha256": "d3796e77387d7c9e090438a7750809360db6cd045657a06704adfc5eecf3cd39"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_05.png": {
+    "bytes": 96917,
+    "sha256": "cb9fdc4e3bc1358d75a299a78a25198b978eb9960ef95eba47d0b5f230c960bb"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_06.png": {
+    "bytes": 106771,
+    "sha256": "6767269f7380c4615e209ae8212e8fce789c12490530807c562fce396af79f76"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_07.png": {
+    "bytes": 122647,
+    "sha256": "8ac0c7138de3ff26d0fb3ca36cdca1af4c27968ed0b0612c09f4de3f93b1c452"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_08.png": {
+    "bytes": 134713,
+    "sha256": "886e2398a70aa346f1fe04436ec892784e2457da1d21e5c2b7aaf4a6873e2758"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_09.png": {
+    "bytes": 98963,
+    "sha256": "4f8aac633c042aa8de17788176e9258d61e79512a7ac3dc2a5e2a16b6b1c5393"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_10.png": {
+    "bytes": 152117,
+    "sha256": "37cbbdb9454fef6da986bcdaa0391dd308740865ab3aa562a0db1578520fb140"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_11.png": {
+    "bytes": 128720,
+    "sha256": "12d9d4ec851a0b2fef597bea4e046d2029bff4cb5c5e6ee412f0d4fd7d6666b4"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_12.png": {
+    "bytes": 145721,
+    "sha256": "0056f3bd243f93137c06a703beb32a7dc6817e33f2d74e0a22b897ff98b23c67"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_13.png": {
+    "bytes": 123861,
+    "sha256": "d0aff19f1daf7542eecec09a333342523979327045ec09c9faeedf9d5df10e96"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_14.png": {
+    "bytes": 131884,
+    "sha256": "1b1b044c28de8c05bb5e2402a404d7216bbec0ecdf50e979ca4e2262284a568c"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/page_15.png": {
+    "bytes": 140950,
+    "sha256": "9647094fb97d8556662f56a08a185d6aa4db17407d1016ecc108ad1afd725e43"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/qa/pdf_qa.json": {
+    "bytes": 543,
+    "sha256": "55f3af5c76b305ea50c4e0671749be805d04faaa95a4529606d3aa5ba5113fca"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/output/validation.json": {
+    "bytes": 4984,
+    "sha256": "084313feff9849f5ed8869efe8fc9ede2b997880a46b7a235d23d2075f2743d5"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/requirements.txt": {
+    "bytes": 104,
+    "sha256": "de7f2b2893f6266a608f3dffd82a1f7712e17bce3431ccfb15daed4f715b996e"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/source/build_manual.py": {
+    "bytes": 31164,
+    "sha256": "9100e85012fffd1505a0ab74c950f8c60bf8f8aeb781a0eb7c26b3314abe5f51"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/source/export_patterns.py": {
+    "bytes": 4405,
+    "sha256": "dd222e6aa10d83684186dac7558236234b4ac9f5d523f336fce5d87b1d520b38"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/source/model.py": {
+    "bytes": 11466,
+    "sha256": "9a07d332d578f832fa07392bcb5e667061e9fb2aca9aaf6f8de845002ad176b3"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/source/parameters.json": {
+    "bytes": 1270,
+    "sha256": "e4255b2a6a0abe28afab4884dfb912c2bbe10c4d3a4d7e8b9b57f2a77c720084"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/source/qa_pdf.py": {
+    "bytes": 2401,
+    "sha256": "8605e3f9667a30812729e9b9d383ee6b5d6d3c9acb43880a319c7803cda76870"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/source/render.py": {
+    "bytes": 3813,
+    "sha256": "b675f89cbae04e96062495d9f268184cdfbdad3240dd037947d03f63ebb7812e"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4/source/validate.py": {
+    "bytes": 10373,
+    "sha256": "0511b308c1736f6fbfc428c7730e61d0e3ab831ebd867884f75ba8e89d775ab1"
+  },
+  "deliverables/DIYWOODPLANNER_Alderline_X4_complete.zip": {
+    "bytes": 3720425,
+    "sha256": "b73f5bc94d1bef8278ea3b7cfc4b521f26a91119b7a138be9a93fedf43cedeb5"
+  }
+}
